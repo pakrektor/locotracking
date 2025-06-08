@@ -81,7 +81,8 @@ export default async function handler(request, response) {
         const allTrainSchedules = JSON.parse(schedulesData);
 
         const nowUTC = new Date();
-        const gapekaNow = new Date(nowUTC.getTime() + 7 * 60 * 60 * 1000);
+        // const gapekaNow = new Date(nowUTC.getTime() + 7 * 60 * 60 * 1000);
+        const gapekaNow = new Date('2025-06-08T09:12:00.000+07:00')
 
         const activeTrains = allTrainSchedules
             .map((trainData) => calculateTrainStatus(trainData, precomputedRoutes, gapekaNow))
