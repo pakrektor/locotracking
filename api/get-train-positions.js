@@ -11,58 +11,65 @@ function haversineDistance(s, t) { const e = 6371e3, n = s.lat * Math.PI / 180, 
 function getPointOnPolyline(s, t) { if (!s || s.length < 2) return null; let e = 0; for (let n = 0; n < s.length - 1; n++)e += haversineDistance({ lat: s[n][0], lon: s[n][1] }, { lat: s[n + 1][0], lon: s[n + 1][1] }); if (0 === e) return s[0]; const n = e * t; let o = 0; for (let a = 0; a < s.length - 1; a++) { const r = s[a], i = s[a + 1], l = haversineDistance({ lat: r[0], lon: r[1] }, { lat: i[0], lon: i[1] }); if (o + l >= n) { const c = n - o, u = 0 === l ? 0 : c / l; return [r[0] + (i[0] - r[0]) * u, r[1] + (i[1] - r[1]) * u] } o += l } return s[s.length - 1] }
 
 // --- Bagian 2: Fungsi Kalkulasi Status Kereta (tidak ada perubahan) ---
+// GANTI SELURUH FUNGSI LAMA DENGAN FUNGSI BARU INI
 function calculateTrainStatus(trainData, precomputedRoutes, gapekaNow) {
     const { nomor_ka, nama_kereta, jadwal_perhentian } = trainData;
     const nowMinutes = getGapekaTimeInMinutes(gapekaNow);
 
-    if (!jadwal_perhentian || jadwal_perhentian.length < 2) return { onTrip: false };
+    if (!jadwal_perhentian || jadwal_perhentian.length < 2) {
+        return { onTrip: false };
+    }
 
     for (let i = 0; i < jadwal_perhentian.length - 1; i++) {
         const currentStop = jadwal_perhentian[i];
         const nextStop = jadwal_perhentian[i + 1];
 
-        const depTime = parseTimeToMinutesOnly(currentStop.berangkat);
-        const arrTime = parseTimeToMinutesOnly(nextStop.datang === "Ls" ? nextStop.berangkat : nextStop.datang);
+        let depTime = parseTimeToMinutesOnly(currentStop.berangkat);
+        let arrTime = parseTimeToMinutesOnly(nextStop.datang === "Ls" ? nextStop.berangkat : nextStop.datang);
 
-        if (depTime === null || arrTime === null) continue;
-
-        let now = nowMinutes;
-        let dep = depTime;
-        let arr = arrTime;
-
-        if (arr < dep) {
-            if (now < dep && now > arr) {
-                continue;
-            }
-        } else {
-            if (now < dep || now >= arr) {
-                continue;
-            }
+        if (depTime === null || arrTime === null) {
+            continue;
         }
 
-        const trainRoute = precomputedRoutes[nomor_ka];
-        if (!trainRoute) continue;
+        // Logika untuk perjalanan semalam (overnight)
+        const isOvernight = arrTime < depTime;
+        const isNowInOvernightSpan = nowMinutes >= depTime || nowMinutes < arrTime;
+        const isNowInDaytimeSpan = nowMinutes >= depTime && nowMinutes < arrTime;
 
-        const firstDepartureMinutes = parseTimeToMinutesOnly(jadwal_perhentian[0].berangkat);
-        if (firstDepartureMinutes === null) continue;
+        // Cek apakah waktu 'now' berada dalam rentang segmen ini
+        if ((isOvernight && isNowInOvernightSpan) || (!isOvernight && isNowInDaytimeSpan)) {
+            
+            // LOGIKA BARU: Hitung progres hanya di segmen aktif ini
+            let segmentDuration = isOvernight ? (1440 - depTime) + arrTime : arrTime - depTime;
+            let timeIntoSegment = isOvernight ? (nowMinutes >= depTime ? nowMinutes - depTime : (1440 - depTime) + nowMinutes) : nowMinutes - depTime;
+            
+            const progressInSegment = segmentDuration > 0 ? timeIntoSegment / segmentDuration : 0;
+            
+            // Ambil rute untuk kereta ini
+            const trainRoute = precomputedRoutes[nomor_ka];
+            if (!trainRoute) continue; // Lanjut jika rute tidak ditemukan
 
-        let lastStop = jadwal_perhentian[jadwal_perhentian.length - 1];
-        let lastArrivalTime = parseTimeToMinutesOnly(lastStop.datang === "Ls" ? lastStop.berangkat : lastStop.datang);
-        if (lastArrivalTime === null) continue;
+            // Dapatkan posisi di polyline menggunakan progres keseluruhan (ini masih oke)
+            const firstDepartureMinutes = parseTimeToMinutesOnly(jadwal_perhentian[0].berangkat);
+            let lastArrivalTime = parseTimeToMinutesOnly(jadwal_perhentian[jadwal_perhentian.length - 1].datang === "Ls" ? jadwal_perhentian[jadwal_perhentian.length - 1].berangkat : jadwal_perhentian[jadwal_perhentian.length - 1].datang);
+            
+            if (firstDepartureMinutes === null || lastArrivalTime === null) continue;
 
-        let lastArrivalTimeAdjusted = lastArrivalTime < firstDepartureMinutes ? lastArrivalTime + 1440 : lastArrivalTime;
-        const totalTripDuration = lastArrivalTimeAdjusted - firstDepartureMinutes;
+            let lastArrivalTimeAdjusted = lastArrivalTime < firstDepartureMinutes ? lastArrivalTime + 1440 : lastArrivalTime;
+            const totalTripDuration = lastArrivalTimeAdjusted - firstDepartureMinutes;
+            
+            let nowMinutesAdjusted = nowMinutes < firstDepartureMinutes ? nowMinutes + 1440 : nowMinutes;
+            const timeSinceFirstDeparture = nowMinutesAdjusted - firstDepartureMinutes;
+            const overallProgress = totalTripDuration > 0 ? timeSinceFirstDeparture / totalTripDuration : 0;
 
-        let nowMinutesAdjusted = now < firstDepartureMinutes ? now + 1440 : now;
-        const timeSinceFirstDeparture = nowMinutesAdjusted - firstDepartureMinutes;
-        const progress = totalTripDuration > 0 ? timeSinceFirstDeparture / totalTripDuration : 0;
+            const calculatedPos = getPointOnPolyline(trainRoute, Math.min(1, Math.max(0, overallProgress)));
 
-        const calculatedPos = getPointOnPolyline(trainRoute, Math.min(1, Math.max(0, progress)));
-
-        if (calculatedPos) {
-            return { onTrip: true, id: nomor_ka, nama: nama_kereta, lat: calculatedPos[0], lon: calculatedPos[1] };
+            if (calculatedPos) {
+                return { onTrip: true, id: nomor_ka, nama: nama_kereta, lat: calculatedPos[0], lon: calculatedPos[1] };
+            }
         }
     }
+
     return { onTrip: false };
 }
 
