@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
     try {
       // Memanggil backend (Netlify Function) Anda.
       // URL ini secara otomatis akan diarahkan oleh Netlify ke function Anda.
-      const response = await fetch("/.netlify/functions/get-train-positions");
+      const response = await fetch('/api/get-train-positions');
       if (!response.ok) {
         throw new Error(`Server error: ${response.statusText}`);
       }
