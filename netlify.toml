@@ -1,0 +1,12 @@
+[build]
+  # Perintah ini akan dijalankan oleh Netlify saat deploy
+  command = "node precompute.js" 
+  publish = "public/"
+  functions = "netlify/functions/"
+
+# Sisanya biarkan sama
+[functions]
+  included_files = ["data/**"]
+
+[functions."*"]
+  node_version = 20

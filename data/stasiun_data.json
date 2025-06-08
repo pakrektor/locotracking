@@ -1,0 +1,3802 @@
+{
+  "AIS": {
+    "nama": "AIR ASAM",
+    "lat": -3.64722,
+    "lon": 104.25083
+  },
+  "LRO": {
+    "nama": "Lambaro",
+    "lat": 5.50324,
+    "lon": 95.35242
+  },
+  "LEC": {
+    "nama": "LECES",
+    "lat": -7.84686,
+    "lon": 113.229
+  },
+  "PB": {
+    "nama": "PROBOLINGGO",
+    "lat": -7.74268,
+    "lon": 113.2158
+  },
+  "GI": {
+    "nama": "GRATI",
+    "lat": -7.71747,
+    "lon": 113.0122
+  },
+  "PS": {
+    "nama": "PASURUAN",
+    "lat": -7.63739,
+    "lon": 112.9098
+  },
+  "RO": {
+    "nama": "REJOSO",
+    "lat": -7.68951,
+    "lon": 112.9658
+  },
+  "KRG": {
+    "nama": "KRUENG GEUKUEH",
+    "lat": 5.24714,
+    "lon": 97.00967
+  },
+  "KRM": {
+    "nama": "KRUENG MANE",
+    "lat": 5.25343,
+    "lon": 96.93132
+  },
+  "KBG": {
+    "nama": "Kambangan",
+    "lat": -7.38757,
+    "lon": 112.212
+  },
+  "ARB": {
+    "nama": "ARAS KABU",
+    "lat": 3.61279,
+    "lon": 98.84784
+  },
+  "BTK": {
+    "nama": "BATANG KUIS",
+    "lat": 3.59424,
+    "lon": 98.75623
+  },
+  "LBP": {
+    "nama": "LUBUK PAKAM",
+    "lat": 3.5636,
+    "lon": 98.8786
+  },
+  "BLI": {
+    "nama": "BAHLIAS",
+    "lat": 3.2012,
+    "lon": 99.34033
+  },
+  "BJL": {
+    "nama": "BAJALINGGEI",
+    "lat": 3.16741,
+    "lon": 99.11093
+  },
+  "DMR": {
+    "nama": "DOLOK MERANGIR",
+    "lat": 3.11762,
+    "lon": 99.11719
+  },
+  "PRA": {
+    "nama": "PERLANAAN",
+    "lat": 3.1756,
+    "lon": 99.36499
+  },
+  "BDT": {
+    "nama": "BANDAR TINGGI",
+    "lat": 3.28442,
+    "lon": 99.30481
+  },
+  "AKB": {
+    "nama": "AEK LOBA",
+    "lat": 2.65161,
+    "lon": 99.61578
+  },
+  "KIS": {
+    "nama": "KISARAN",
+    "lat": 2.98621,
+    "lon": 99.61938
+  },
+  "PUR": {
+    "nama": "PULU RAJA",
+    "lat": 2.69721,
+    "lon": 99.617
+  },
+  "TUK": {
+    "nama": "TELUK DALAM",
+    "lat": 2.82797,
+    "lon": 99.6267
+  },
+  "RAP": {
+    "nama": "RANTAU PRAPAT",
+    "lat": 2.1134,
+    "lon": 99.82098
+  },
+  "PBA": {
+    "nama": "PERBAUNGAN",
+    "lat": 3.56738,
+    "lon": 98.95203
+  },
+  "BMB": {
+    "nama": "BAMBAN",
+    "lat": 3.43762,
+    "lon": 99.16699
+  },
+  "RPH": {
+    "nama": "RAMPAH/PAMINGKE",
+    "lat": 3.56299,
+    "lon": 99.0144
+  },
+  "LMP": {
+    "nama": "LIMA PULUH",
+    "lat": 3.17322,
+    "lon": 99.41302
+  },
+  "SBJ": {
+    "nama": "SEI BEJANGKAR",
+    "lat": 3.10663,
+    "lon": 99.5564
+  },
+  "LTD": {
+    "nama": "LAUT TADOR",
+    "lat": 3.3786,
+    "lon": 99.16882
+  },
+  "MBM": {
+    "nama": "MAMBANG MUDA",
+    "lat": 2.56519,
+    "lon": 99.65118
+  },
+  "MBU": {
+    "nama": "MERBAU",
+    "lat": 2.2608,
+    "lon": 99.82239
+  },
+  "PHA": {
+    "nama": "Phaiton",
+    "lat": -7.71588,
+    "lon": 113.5102
+  },
+  "BGM": {
+    "nama": "BUNGAMAS",
+    "lat": -3.70389,
+    "lon": 103.36806
+  },
+  "PSE": {
+    "nama": "PASAR SENEN",
+    "lat": -6.1745,
+    "lon": 106.8442
+  },
+  "RJW": {
+    "nama": "RAJAWALI",
+    "lat": -6.14508,
+    "lon": 106.8368
+  },
+  "THB": {
+    "nama": "TANAH ABANG",
+    "lat": -6.1861,
+    "lon": 106.8108
+  },
+  "GDD": {
+    "nama": "Gondangdia",
+    "lat": -6.1861,
+    "lon": 106.8328
+  },
+  "JUA": {
+    "nama": "Juanda",
+    "lat": -6.16656,
+    "lon": 106.8304
+  },
+  "KAT": {
+    "nama": "Karet",
+    "lat": -6.20081,
+    "lon": 106.816
+  },
+  "MGB": {
+    "nama": "Mangga Besar",
+    "lat": -6.14978,
+    "lon": 106.827
+  },
+  "SWB": {
+    "nama": "Sawah Besar",
+    "lat": -6.16058,
+    "lon": 106.8276
+  },
+  "GST": {
+    "nama": "Sentiong",
+    "lat": -6.18628,
+    "lon": 106.851
+  },
+  "SUD": {
+    "nama": "Sudirman",
+    "lat": -6.20209,
+    "lon": 106.8234
+  },
+  "AC": {
+    "nama": "ANCOL",
+    "lat": -6.12811,
+    "lon": 106.8448
+  },
+  "JAKG": {
+    "nama": "JAKARTA GUDANG",
+    "lat": -6.1333,
+    "lon": 106.8194
+  },
+  "TPK": {
+    "nama": "TANJUNG PRIUK",
+    "lat": -6.11041,
+    "lon": 106.882
+  },
+  "KPB": {
+    "nama": "Kampung Bandan Bawah",
+    "lat": -6.13239,
+    "lon": 106.8286
+  },
+  "POO": {
+    "nama": "Pasoso",
+    "lat": -6.10938,
+    "lon": 106.884
+  },
+  "SAO": {
+    "nama": "Sungai Lagoa",
+    "lat": -6.11279,
+    "lon": 106.8758
+  },
+  "AK": {
+    "nama": "ANGKE",
+    "lat": -6.14471,
+    "lon": 106.8008
+  },
+  "DU": {
+    "nama": "DURI",
+    "lat": -6.15588,
+    "lon": 106.8016
+  },
+  "JAKK": {
+    "nama": "JAKARTA KOTA",
+    "lat": -6.1366,
+    "lon": 106.8166
+  },
+  "BOI": {
+    "nama": "Bojong Indah",
+    "lat": -6.15997,
+    "lon": 106.7366
+  },
+  "GRG": {
+    "nama": "Grogol",
+    "lat": -6.16211,
+    "lon": 106.7894
+  },
+  "JYK": {
+    "nama": "Jayakarta",
+    "lat": -6.1413,
+    "lon": 106.823
+  },
+  "KDS": {
+    "nama": "Kalideres",
+    "lat": -6.16608,
+    "lon": 106.7034
+  },
+  "PSG": {
+    "nama": "Pesing",
+    "lat": -6.16119,
+    "lon": 106.772
+  },
+  "RW": {
+    "nama": "Rawa Buaya",
+    "lat": -6.1626,
+    "lon": 106.7236
+  },
+  "TKO": {
+    "nama": "Taman Kota",
+    "lat": -6.15857,
+    "lon": 106.7566
+  },
+  "KBY": {
+    "nama": "KEBAYORAN",
+    "lat": -6.23737,
+    "lon": 106.7824
+  },
+  "MRI": {
+    "nama": "MANGGARAI",
+    "lat": -6.2099,
+    "lon": 106.8498
+  },
+  "CWG": {
+    "nama": "Cawang",
+    "lat": -6.2417,
+    "lon": 106.8586
+  },
+  "DRN": {
+    "nama": "Duren Kalibata",
+    "lat": -6.25568,
+    "lon": 106.855
+  },
+  "LTA": {
+    "nama": "Lenteng Agung",
+    "lat": -6.3299,
+    "lon": 106.8346
+  },
+  "PSM": {
+    "nama": "Pasar Minggu",
+    "lat": -6.28436,
+    "lon": 106.8446
+  },
+  "PSMB": {
+    "nama": "Pasar Minggu Baru",
+    "lat": -6.26282,
+    "lon": 106.8518
+  },
+  "TNT": {
+    "nama": "Tanjung Barat",
+    "lat": -6.30847,
+    "lon": 106.839
+  },
+  "TEB": {
+    "nama": "Tebet",
+    "lat": -6.22668,
+    "lon": 106.8584
+  },
+  "UP": {
+    "nama": "Universitas Pancasila",
+    "lat": -6.33911,
+    "lon": 106.8342
+  },
+  "BUA": {
+    "nama": "BUARAN",
+    "lat": -6.21619,
+    "lon": 106.9276
+  },
+  "CUK": {
+    "nama": "CAKUNG",
+    "lat": -6.21918,
+    "lon": 106.9522
+  },
+  "JNG": {
+    "nama": "JATINEGARA",
+    "lat": -6.21527,
+    "lon": 106.8704
+  },
+  "KLD": {
+    "nama": "KLENDER",
+    "lat": -6.21338,
+    "lon": 106.9
+  },
+  "KLDB": {
+    "nama": "KLENDER BARU",
+    "lat": -6.21759,
+    "lon": 106.9398
+  },
+  "POK": {
+    "nama": "PONDOK JATI",
+    "lat": -6.20898,
+    "lon": 106.8622
+  },
+  "CBN": {
+    "nama": "CIBINONG",
+    "lat": -6.46381,
+    "lon": 106.8548
+  },
+  "CGB": {
+    "nama": "CIGOMBONG",
+    "lat": -6.74219,
+    "lon": 106.803
+  },
+  "CJT": {
+    "nama": "CILEJIT",
+    "lat": -6.35431,
+    "lon": 106.5096
+  },
+  "MSG": {
+    "nama": "MASENG",
+    "lat": -6.70239,
+    "lon": 106.8146
+  },
+  "NMO": {
+    "nama": "NAMBO",
+    "lat": -6.46509,
+    "lon": 106.909
+  },
+  "PRP": {
+    "nama": "PARUNG PANJANG",
+    "lat": -6.34418,
+    "lon": 106.5688
+  },
+  "TEJ": {
+    "nama": "TENJO",
+    "lat": -6.32758,
+    "lon": 106.462
+  },
+  "BJD": {
+    "nama": "Bojong Gede",
+    "lat": -6.49268,
+    "lon": 106.7948
+  },
+  "CLT": {
+    "nama": "Cilebut",
+    "lat": -6.53052,
+    "lon": 106.8006
+  },
+  "CBD": {
+    "nama": "CIBADAK",
+    "lat": -6.88818,
+    "lon": 106.7804
+  },
+  "CCR": {
+    "nama": "CICURUG",
+    "lat": -6.79041,
+    "lon": 106.7796
+  },
+  "CSA": {
+    "nama": "CISAAT",
+    "lat": -6.91388,
+    "lon": 106.8876
+  },
+  "KE": {
+    "nama": "KARANG TENGAH",
+    "lat": -6.8963,
+    "lon": 106.8224
+  },
+  "PRK": {
+    "nama": "PARUNG KUDA",
+    "lat": -6.8465,
+    "lon": 106.7606
+  },
+  "CKP": {
+    "nama": "CIKAMPEK",
+    "lat": -6.40607,
+    "lon": 107.459
+  },
+  "DWN": {
+    "nama": "DAWUAN",
+    "lat": -6.39319,
+    "lon": 107.4334
+  },
+  "KW": {
+    "nama": "KARAWANG",
+    "lat": -6.30518,
+    "lon": 107.3002
+  },
+  "KLI": {
+    "nama": "KLARI",
+    "lat": -6.34998,
+    "lon": 107.3454
+  },
+  "KOS": {
+    "nama": "KOSAMBI",
+    "lat": -6.3692,
+    "lon": 107.3748
+  },
+  "TB": {
+    "nama": "TAMBUN",
+    "lat": -6.25861,
+    "lon": 107.0558
+  },
+  "CIT": {
+    "nama": "Cibitung",
+    "lat": -6.26178,
+    "lon": 107.0836
+  },
+  "TLM": {
+    "nama": "Telaga Murni",
+    "lat": -6.25763,
+    "lon": 107.1108
+  },
+  "KDH": {
+    "nama": "KEDUNG GEDEH",
+    "lat": -6.2699,
+    "lon": 107.2612
+  },
+  "LMB": {
+    "nama": "LEMAH ABANG",
+    "lat": -6.27057,
+    "lon": 107.1798
+  },
+  "BTT": {
+    "nama": "BATU TULIS",
+    "lat": -6.62579,
+    "lon": 106.8096
+  },
+  "BOO": {
+    "nama": "BOGOR",
+    "lat": -6.59381,
+    "lon": 106.7906
+  },
+  "BOP": {
+    "nama": "BOGOR PALEDANG",
+    "lat": -6.59789,
+    "lon": 106.79054
+  },
+  "CS": {
+    "nama": "Ciomas",
+    "lat": -6.65179,
+    "lon": 106.8094
+  },
+  "SI": {
+    "nama": "SUKABUMI",
+    "lat": -6.92389,
+    "lon": 106.9248
+  },
+  "BKS": {
+    "nama": "BEKASI",
+    "lat": -6.23669,
+    "lon": 106.9994
+  },
+  "KRI": {
+    "nama": "Kranji",
+    "lat": -6.2243,
+    "lon": 106.9792
+  },
+  "MAG": {
+    "nama": "MAGETAN",
+    "lat": -7.56209,
+    "lon": 111.45117
+  },
+  "DP": {
+    "nama": "Depok",
+    "lat": -6.40466,
+    "lon": 106.8172
+  },
+  "DPB": {
+    "nama": "Depok Baru",
+    "lat": -6.3913,
+    "lon": 106.8216
+  },
+  "POC": {
+    "nama": "Pondok Cina",
+    "lat": -6.3689,
+    "lon": 106.8324
+  },
+  "UI": {
+    "nama": "Universitas Indonesia",
+    "lat": -6.36072,
+    "lon": 106.8318
+  },
+  "CTA": {
+    "nama": "Citayam",
+    "lat": -6.44897,
+    "lon": 106.8024
+  },
+  "MJ": {
+    "nama": "MAJA",
+    "lat": -6.33228,
+    "lon": 106.3962
+  },
+  "RK": {
+    "nama": "RANGKASBITUNG",
+    "lat": -6.3526,
+    "lon": 106.2514
+  },
+  "CTR": {
+    "nama": "Citeras",
+    "lat": -6.3349,
+    "lon": 106.3328
+  },
+  "CCY": {
+    "nama": "Cicayur",
+    "lat": -6.32959,
+    "lon": 106.619
+  },
+  "CKY": {
+    "nama": "Cikoya",
+    "lat": -6.33557,
+    "lon": 106.4118
+  },
+  "CSK": {
+    "nama": "Cisauk",
+    "lat": -6.32471,
+    "lon": 106.6412
+  },
+  "DAR": {
+    "nama": "Daru",
+    "lat": -6.33789,
+    "lon": 106.4924
+  },
+  "TGS": {
+    "nama": "Tigaraksa",
+    "lat": -6.32831,
+    "lon": 106.4344
+  },
+  "CT": {
+    "nama": "CATANG",
+    "lat": -6.26569,
+    "lon": 106.268
+  },
+  "CKL": {
+    "nama": "CIKEUSAL",
+    "lat": -6.21698,
+    "lon": 106.2446
+  },
+  "JBU": {
+    "nama": "JAMBU BARU",
+    "lat": -6.30292,
+    "lon": 106.2606
+  },
+  "TOJB": {
+    "nama": "TONJONG BARU",
+    "lat": -6.03131,
+    "lon": 106.1214
+  },
+  "BPR": {
+    "nama": "Batuceper",
+    "lat": -6.17218,
+    "lon": 106.665
+  },
+  "PI": {
+    "nama": "Poris",
+    "lat": -6.16968,
+    "lon": 106.6814
+  },
+  "TNG": {
+    "nama": "Tangerang",
+    "lat": -6.17688,
+    "lon": 106.6326
+  },
+  "CGD": {
+    "nama": "CIGADING",
+    "lat": -6.02197,
+    "lon": 105.9636
+  },
+  "CLG": {
+    "nama": "CILEGON",
+    "lat": -6.01959,
+    "lon": 106.0532
+  },
+  "KEN": {
+    "nama": "KRENCENG",
+    "lat": -6.00977,
+    "lon": 106.023
+  },
+  "MER": {
+    "nama": "MERAK",
+    "lat": -5.9303,
+    "lon": 105.9972
+  },
+  "KRA": {
+    "nama": "KARANGANTU",
+    "lat": -6.039,
+    "lon": 106.162
+  },
+  "SG": {
+    "nama": "SERANG",
+    "lat": -6.11237,
+    "lon": 106.1586
+  },
+  "WLT": {
+    "nama": "WALANTAKA",
+    "lat": -6.1554,
+    "lon": 106.2188
+  },
+  "PDJ": {
+    "nama": "PONDOK RANJI",
+    "lat": -6.27667,
+    "lon": 106.7448
+  },
+  "SRP": {
+    "nama": "SERPONG",
+    "lat": -6.32019,
+    "lon": 106.6656
+  },
+  "SDM": {
+    "nama": "SUDIMARA",
+    "lat": -6.29669,
+    "lon": 106.7128
+  },
+  "JMU": {
+    "nama": "Jurang Mangu",
+    "lat": -6.28851,
+    "lon": 106.7292
+  },
+  "RU": {
+    "nama": "Rawa Buntu",
+    "lat": -6.31488,
+    "lon": 106.6762
+  },
+  "CRH": {
+    "nama": "Cireungas",
+    "lat": -6.95853,
+    "lon": 107.03721
+  },
+  "CRG": {
+    "nama": "CIREUNGAS",
+    "lat": -6.9585,
+    "lon": 107.0368
+  },
+  "GDS": {
+    "nama": "GANDASOLI",
+    "lat": -6.94141,
+    "lon": 106.9922
+  },
+  "CJ": {
+    "nama": "CIANJUR",
+    "lat": -6.82477,
+    "lon": 107.1428
+  },
+  "CBB": {
+    "nama": "CIBEBER",
+    "lat": -6.9375,
+    "lon": 107.1212
+  },
+  "CPY": {
+    "nama": "CIPEUYEUM",
+    "lat": -6.81848,
+    "lon": 107.2982
+  },
+  "CRJ": {
+    "nama": "CIRANJANG",
+    "lat": -6.81409,
+    "lon": 107.2512
+  },
+  "LP": {
+    "nama": "LAMPEGAN",
+    "lat": -6.94989,
+    "lon": 107.0616
+  },
+  "CCL": {
+    "nama": "CICALENGKA",
+    "lat": -6.98157,
+    "lon": 107.8328
+  },
+  "HRP": {
+    "nama": "HAURPUGUR",
+    "lat": -6.98071,
+    "lon": 107.7996
+  },
+  "NG": {
+    "nama": "NAGREG",
+    "lat": -7.01819,
+    "lon": 107.8862
+  },
+  "RCK": {
+    "nama": "RANCAEKEK",
+    "lat": -6.96478,
+    "lon": 107.756
+  },
+  "LBJ": {
+    "nama": "Lebak Jero",
+    "lat": -7.05359,
+    "lon": 107.894
+  },
+  "BMW": {
+    "nama": "Bumi Waluya",
+    "lat": -7.05859,
+    "lon": 108.0706
+  },
+  "WB": {
+    "nama": "Warung Bandrek",
+    "lat": -7.0647,
+    "lon": 108.007
+  },
+  "CB": {
+    "nama": "CIBATU",
+    "lat": -7.1001,
+    "lon": 107.9796
+  },
+  "CPD": {
+    "nama": "CIPEUNDEUY",
+    "lat": -7.09357,
+    "lon": 108.1006
+  },
+  "GRT": {
+    "nama": "GARUT",
+    "lat": -7.20538,
+    "lon": 107.8848
+  },
+  "KRAI": {
+    "nama": "KARANG SARI",
+    "lat": -7.09827,
+    "lon": 107.9312
+  },
+  "LL": {
+    "nama": "LELES",
+    "lat": -7.08429,
+    "lon": 107.8998
+  },
+  "LO": {
+    "nama": "LEUWIGOONG",
+    "lat": -7.10327,
+    "lon": 107.9582
+  },
+  "PSJ": {
+    "nama": "PASIRJENGKOL",
+    "lat": -7.12864,
+    "lon": 107.99229
+  },
+  "WNR": {
+    "nama": "WANARAJA",
+    "lat": -7.16464,
+    "lon": 107.97691
+  },
+  "CAA": {
+    "nama": "Cirahayu",
+    "lat": -7.13422,
+    "lon": 108.1184
+  },
+  "MNJ": {
+    "nama": "Manonjaya",
+    "lat": -7.35321,
+    "lon": 108.3026
+  },
+  "RJP": {
+    "nama": "Rajapolah",
+    "lat": -7.21948,
+    "lon": 108.1912
+  },
+  "CAW": {
+    "nama": "CIAWI",
+    "lat": -7.15741,
+    "lon": 108.1458
+  },
+  "BJG": {
+    "nama": "Bojong",
+    "lat": -7.34729,
+    "lon": 108.4294
+  },
+  "CI": {
+    "nama": "CIAMIS",
+    "lat": -7.32941,
+    "lon": 108.3558
+  },
+  "CBR": {
+    "nama": "CIBUNGUR",
+    "lat": -6.4679,
+    "lon": 107.4796
+  },
+  "CA": {
+    "nama": "CIGANEA",
+    "lat": -6.57349,
+    "lon": 107.4308
+  },
+  "PLD": {
+    "nama": "PLERED",
+    "lat": -6.64038,
+    "lon": 107.3914
+  },
+  "PWK": {
+    "nama": "PURWAKARTA",
+    "lat": -6.55267,
+    "lon": 107.4464
+  },
+  "SUT": {
+    "nama": "SUKATANI",
+    "lat": -6.6109,
+    "lon": 107.4086
+  },
+  "TAU": {
+    "nama": "Tagog Apu",
+    "lat": -6.81036,
+    "lon": 107.463
+  },
+  "CD": {
+    "nama": "CIKADONGDONG",
+    "lat": -6.71521,
+    "lon": 107.3904
+  },
+  "CLE": {
+    "nama": "CILAME",
+    "lat": -6.80328,
+    "lon": 107.4638
+  },
+  "CPT": {
+    "nama": "Campurdarat",
+    "lat": -8.16589,
+    "lon": 111.8488
+  },
+  "GK": {
+    "nama": "GADOBANGKONG",
+    "lat": -6.86487,
+    "lon": 107.5152
+  },
+  "MSI": {
+    "nama": "MASWATI",
+    "lat": -6.76086,
+    "lon": 107.409
+  },
+  "PDL": {
+    "nama": "Pondok Leungsir",
+    "lat": -6.90497,
+    "lon": 106.8532
+  },
+  "RH": {
+    "nama": "RENDEH",
+    "lat": -6.7359,
+    "lon": 107.398
+  },
+  "SKT": {
+    "nama": "SASAKSAAT",
+    "lat": -6.77917,
+    "lon": 107.4316
+  },
+  "AND": {
+    "nama": "Andir",
+    "lat": -6.9079,
+    "lon": 107.5794
+  },
+  "BD": {
+    "nama": "BANDUNG",
+    "lat": -6.91388,
+    "lon": 107.6026
+  },
+  "CTH": {
+    "nama": "CIKUDAPATEUH",
+    "lat": -6.9187,
+    "lon": 107.6262
+  },
+  "CMK": {
+    "nama": "CIMEKAR",
+    "lat": -6.94989,
+    "lon": 107.715
+  },
+  "CMD": {
+    "nama": "CIMINDI",
+    "lat": -6.896,
+    "lon": 107.5612
+  },
+  "CIR": {
+    "nama": "CIROYOM",
+    "lat": -6.91418,
+    "lon": 107.5904
+  },
+  "GDB": {
+    "nama": "GEDEBAGE",
+    "lat": -6.94092,
+    "lon": 107.69
+  },
+  "KAC": {
+    "nama": "KIARA CONDONG",
+    "lat": -6.92511,
+    "lon": 107.6464
+  },
+  "CMI": {
+    "nama": "CIMAHI",
+    "lat": -6.88586,
+    "lon": 107.536
+  },
+  "AW": {
+    "nama": "Awipari",
+    "lat": -7.3537,
+    "lon": 108.2744
+  },
+  "IH": {
+    "nama": "Indihiang",
+    "lat": -7.28711,
+    "lon": 108.2012
+  },
+  "TSM": {
+    "nama": "TASIKMALAYA",
+    "lat": -7.32257,
+    "lon": 108.2242
+  },
+  "BJR": {
+    "nama": "BANJAR",
+    "lat": -7.3761,
+    "lon": 108.5424
+  },
+  "KNP": {
+    "nama": "Karangpucung",
+    "lat": -7.35352,
+    "lon": 108.494
+  },
+  "AWN": {
+    "nama": "ARJAWINANGUN",
+    "lat": -6.64459,
+    "lon": 108.4146
+  },
+  "BBK": {
+    "nama": "BABAKAN",
+    "lat": -6.8606,
+    "lon": 108.72
+  },
+  "CLD": {
+    "nama": "CILEDUG",
+    "lat": -6.90289,
+    "lon": 108.744
+  },
+  "LOS": {
+    "nama": "LOSARI",
+    "lat": -6.84607,
+    "lon": 108.8018
+  },
+  "BDW": {
+    "nama": "Bangoduwa",
+    "lat": -6.66296,
+    "lon": 108.46
+  },
+  "CNK": {
+    "nama": "Cangkring",
+    "lat": -6.6795,
+    "lon": 108.5008
+  },
+  "KRW": {
+    "nama": "Karang Suwung",
+    "lat": -6.85779,
+    "lon": 108.6478
+  },
+  "LWG": {
+    "nama": "Luwung",
+    "lat": -6.77759,
+    "lon": 108.5932
+  },
+  "SDU": {
+    "nama": "Sindang Laut",
+    "lat": -6.83276,
+    "lon": 108.626
+  },
+  "WDW": {
+    "nama": "Waruduwur",
+    "lat": -6.78369,
+    "lon": 108.6224
+  },
+  "CLH": {
+    "nama": "Cilegeh",
+    "lat": -6.46399,
+    "lon": 108.0354
+  },
+  "KAB": {
+    "nama": "Kadokangabus",
+    "lat": -6.46771,
+    "lon": 108.107
+  },
+  "KTM": {
+    "nama": "Kertasemaya",
+    "lat": -6.5282,
+    "lon": 108.3534
+  },
+  "TLS": {
+    "nama": "Telagasari",
+    "lat": -6.4646,
+    "lon": 108.235
+  },
+  "HGL": {
+    "nama": "HAURGEULIS",
+    "lat": -6.45862,
+    "lon": 107.941
+  },
+  "JTB": {
+    "nama": "JATIBARANG",
+    "lat": -6.4729,
+    "lon": 108.306
+  },
+  "TIS": {
+    "nama": "TERISI",
+    "lat": -6.47009,
+    "lon": 108.1604
+  },
+  "PGB": {
+    "nama": "PAGADEN BARU",
+    "lat": -6.4538,
+    "lon": 107.8172
+  },
+  "CKM": {
+    "nama": "Cikaum",
+    "lat": -6.43549,
+    "lon": 107.7396
+  },
+  "CRA": {
+    "nama": "Cipunegara",
+    "lat": -6.4552,
+    "lon": 107.8824
+  },
+  "PAB": {
+    "nama": "Pabuaran",
+    "lat": -6.40918,
+    "lon": 107.584
+  },
+  "PAS": {
+    "nama": "Pasirbungur",
+    "lat": -6.42639,
+    "lon": 107.6886
+  },
+  "PRI": {
+    "nama": "Pringkasap",
+    "lat": -6.41809,
+    "lon": 107.6344
+  },
+  "TJS": {
+    "nama": "Tanjungrasa",
+    "lat": -6.40839,
+    "lon": 107.5406
+  },
+  "CN": {
+    "nama": "CIREBON",
+    "lat": -6.70551,
+    "lon": 108.5554
+  },
+  "CNP": {
+    "nama": "CIREBON PRUJAKAN",
+    "lat": -6.71918,
+    "lon": 108.5588
+  },
+  "LRA": {
+    "nama": "Larangan",
+    "lat": -6.9906,
+    "lon": 108.9488
+  },
+  "SGG": {
+    "nama": "Songgom",
+    "lat": -7.02448,
+    "lon": 108.9888
+  },
+  "BB": {
+    "nama": "BREBES",
+    "lat": -6.87427,
+    "lon": 109.0434
+  },
+  "KGG": {
+    "nama": "KETANGGUNGAN",
+    "lat": -6.93829,
+    "lon": 108.8844
+  },
+  "TGN": {
+    "nama": "TANJUNG",
+    "lat": -6.87671,
+    "lon": 108.861
+  },
+  "TW": {
+    "nama": "TELAWA",
+    "lat": -7.18567,
+    "lon": 110.752
+  },
+  "GPK": {
+    "nama": "Goprak",
+    "lat": -7.27289,
+    "lon": 110.8972
+  },
+  "PDS": {
+    "nama": "Padas",
+    "lat": -7.1792,
+    "lon": 110.672
+  },
+  "PNL": {
+    "nama": "Panunggalan",
+    "lat": -7.15259,
+    "lon": 111.0608
+  },
+  "SL": {
+    "nama": "Sulur",
+    "lat": -7.17407,
+    "lon": 111.2228
+  },
+  "TGG": {
+    "nama": "Tanggung",
+    "lat": -7.09149,
+    "lon": 110.6032
+  },
+  "TGW": {
+    "nama": "Tegowanu",
+    "lat": -7.05298,
+    "lon": 110.6024
+  },
+  "GBN": {
+    "nama": "GAMBRINGAN",
+    "lat": -7.1438,
+    "lon": 110.915
+  },
+  "GUB": {
+    "nama": "GUBUG",
+    "lat": -7.06097,
+    "lon": 110.6696
+  },
+  "GD": {
+    "nama": "GUNDIH",
+    "lat": -7.21869,
+    "lon": 110.9
+  },
+  "JBN": {
+    "nama": "JAMBON",
+    "lat": -7.15027,
+    "lon": 111.0102
+  },
+  "KGT": {
+    "nama": "KARANGJATI",
+    "lat": -7.10138,
+    "lon": 110.7792
+  },
+  "KSO": {
+    "nama": "KARANGSONO",
+    "lat": -7.19629,
+    "lon": 110.8256
+  },
+  "KEJ": {
+    "nama": "KEDUNG JATI",
+    "lat": -7.16351,
+    "lon": 110.6356
+  },
+  "KNN": {
+    "nama": "KRADENAN",
+    "lat": -7.1499,
+    "lon": 111.145
+  },
+  "NBO": {
+    "nama": "NGROMBO",
+    "lat": -7.14526,
+    "lon": 110.9004
+  },
+  "SDI": {
+    "nama": "SEDADI",
+    "lat": -7.14056,
+    "lon": 110.8484
+  },
+  "KPA": {
+    "nama": "Kapuan",
+    "lat": -7.1886,
+    "lon": 111.5552
+  },
+  "CU": {
+    "nama": "CEPU",
+    "lat": -7.15417,
+    "lon": 111.5912
+  },
+  "DPL": {
+    "nama": "DOPLANG",
+    "lat": -7.1828,
+    "lon": 111.288
+  },
+  "RBG": {
+    "nama": "RANDU BLATUNG",
+    "lat": -7.1922,
+    "lon": 111.3982
+  },
+  "WDU": {
+    "nama": "WADU",
+    "lat": -7.19641,
+    "lon": 111.5006
+  },
+  "BBG": {
+    "nama": "BRUMBUNG",
+    "lat": -7.02557,
+    "lon": 110.5222
+  },
+  "ABR": {
+    "nama": "AMBARAWA",
+    "lat": -7.26556,
+    "lon": 110.4014
+  },
+  "KLN": {
+    "nama": "KALIWUNGU",
+    "lat": -6.95978,
+    "lon": 110.2548
+  },
+  "WLR": {
+    "nama": "WELERI",
+    "lat": -6.97076,
+    "lon": 110.0698
+  },
+  "KBD": {
+    "nama": "Kalibodri",
+    "lat": -6.97357,
+    "lon": 110.1482
+  },
+  "KNS": {
+    "nama": "Kerengseng",
+    "lat": -6.95239,
+    "lon": 110.028
+  },
+  "KRP": {
+    "nama": "Kuripan",
+    "lat": -6.92377,
+    "lon": 109.8944
+  },
+  "PLB": {
+    "nama": "Plabuan",
+    "lat": -6.9198,
+    "lon": 109.956
+  },
+  "UJN": {
+    "nama": "Ujungnegoro",
+    "lat": -6.90869,
+    "lon": 109.7892
+  },
+  "BTG": {
+    "nama": "BATANG",
+    "lat": -6.90649,
+    "lon": 109.7326
+  },
+  "SRI": {
+    "nama": "Sragi",
+    "lat": -6.92377,
+    "lon": 109.571
+  },
+  "PML": {
+    "nama": "PEMALANG",
+    "lat": -6.88727,
+    "lon": 109.388
+  },
+  "CO": {
+    "nama": "Comal",
+    "lat": -6.9093,
+    "lon": 109.5368
+  },
+  "PTA": {
+    "nama": "Petarukan",
+    "lat": -6.89771,
+    "lon": 109.4496
+  },
+  "LR": {
+    "nama": "Larangan (Tegal)",
+    "lat": -6.86816,
+    "lon": 109.1858
+  },
+  "SD": {
+    "nama": "Suradadi",
+    "lat": -6.88049,
+    "lon": 109.276
+  },
+  "ATA": {
+    "nama": "ALASTUA",
+    "lat": -6.98438,
+    "lon": 110.4758
+  },
+  "SMC": {
+    "nama": "SEMARANG PONCOL",
+    "lat": -6.9729,
+    "lon": 110.4148
+  },
+  "JRK": {
+    "nama": "Jerakah",
+    "lat": -6.98047,
+    "lon": 110.3626
+  },
+  "MKG": {
+    "nama": "Mangkang",
+    "lat": -6.97107,
+    "lon": 110.303
+  },
+  "PK": {
+    "nama": "PEKALONGAN",
+    "lat": -6.88977,
+    "lon": 109.6642
+  },
+  "TG": {
+    "nama": "TEGAL",
+    "lat": -6.86737,
+    "lon": 109.1428
+  },
+  "LN": {
+    "nama": "Langen",
+    "lat": -7.36011,
+    "lon": 108.637
+  },
+  "CPI": {
+    "nama": "Cipari",
+    "lat": -7.44019,
+    "lon": 108.7612
+  },
+  "KKD": {
+    "nama": "Karang Kandri",
+    "lat": -7.6662,
+    "lon": 109.0756
+  },
+  "KH": {
+    "nama": "Kasugihan",
+    "lat": -7.61829,
+    "lon": 109.1218
+  },
+  "KWG": {
+    "nama": "Kawunganten",
+    "lat": -7.59088,
+    "lon": 108.9194
+  },
+  "LBG": {
+    "nama": "Lebeng",
+    "lat": -7.62128,
+    "lon": 109.0774
+  },
+  "MLW": {
+    "nama": "Meluwung",
+    "lat": -7.39441,
+    "lon": 108.6996
+  },
+  "RDN": {
+    "nama": "Randegan",
+    "lat": -7.57007,
+    "lon": 109.22
+  },
+  "SKP": {
+    "nama": "Sikampuh",
+    "lat": -7.62579,
+    "lon": 109.1976
+  },
+  "CP": {
+    "nama": "CILACAP",
+    "lat": -7.73608,
+    "lon": 109.007
+  },
+  "GDM": {
+    "nama": "GANDRUNG MANGUN",
+    "lat": -7.52808,
+    "lon": 108.8592
+  },
+  "GM": {
+    "nama": "GUMILIR",
+    "lat": -7.685,
+    "lon": 109.0426
+  },
+  "JRL": {
+    "nama": "JERUKLEGI",
+    "lat": -7.62347,
+    "lon": 109.019
+  },
+  "KYA": {
+    "nama": "KROYA",
+    "lat": -7.63,
+    "lon": 109.2538
+  },
+  "MA": {
+    "nama": "MAOS",
+    "lat": -7.61908,
+    "lon": 109.1398
+  },
+  "SDR": {
+    "nama": "SIDAREJA",
+    "lat": -7.48651,
+    "lon": 108.8076
+  },
+  "KGD": {
+    "nama": "Karang Gandul",
+    "lat": -7.388,
+    "lon": 109.1858
+  },
+  "KBS": {
+    "nama": "Kebasen",
+    "lat": -7.53027,
+    "lon": 109.2032
+  },
+  "KJ": {
+    "nama": "Kemranjen",
+    "lat": -7.62158,
+    "lon": 109.3154
+  },
+  "NTG": {
+    "nama": "Notog",
+    "lat": -7.48578,
+    "lon": 109.2134
+  },
+  "TBK": {
+    "nama": "Tambak",
+    "lat": -7.6131,
+    "lon": 109.408
+  },
+  "PWT": {
+    "nama": "PURWOKERTO",
+    "lat": -7.41907,
+    "lon": 109.222
+  },
+  "SPH": {
+    "nama": "SUMPIUH",
+    "lat": -7.61517,
+    "lon": 109.3614
+  },
+  "KRR": {
+    "nama": "Karang Sari",
+    "lat": -7.3822,
+    "lon": 109.1208
+  },
+  "GB": {
+    "nama": "GOMBONG",
+    "lat": -7.6109,
+    "lon": 109.5068
+  },
+  "KA": {
+    "nama": "KARANGANYAR",
+    "lat": -7.6333,
+    "lon": 109.5734
+  },
+  "KM": {
+    "nama": "KEBUMEN",
+    "lat": -7.68188,
+    "lon": 109.6622
+  },
+  "KWN": {
+    "nama": "KUTOWINANGUN",
+    "lat": -7.7168,
+    "lon": 109.7342
+  },
+  "IJ": {
+    "nama": "Ijo",
+    "lat": -7.61548,
+    "lon": 109.4462
+  },
+  "SRW": {
+    "nama": "Sruweng",
+    "lat": -7.65466,
+    "lon": 109.6024
+  },
+  "PRB": {
+    "nama": "Prembun",
+    "lat": -7.72437,
+    "lon": 109.7982
+  },
+  "WNS": {
+    "nama": "WONOSARI",
+    "lat": -7.69727,
+    "lon": 109.7014
+  },
+  "BTH": {
+    "nama": "Butuh",
+    "lat": -7.72437,
+    "lon": 109.8584
+  },
+  "KTA": {
+    "nama": "KUTOARJO",
+    "lat": -7.7262,
+    "lon": 109.9074
+  },
+  "PPK": {
+    "nama": "PRUPUK",
+    "lat": -7.12201,
+    "lon": 108.9852
+  },
+  "SLW": {
+    "nama": "SLAWI",
+    "lat": -6.98182,
+    "lon": 109.13654
+  },
+  "KRT": {
+    "nama": "Kretek",
+    "lat": -7.28558,
+    "lon": 109.0298
+  },
+  "LG": {
+    "nama": "Linggapura",
+    "lat": -7.185,
+    "lon": 109.0124
+  },
+  "PAT": {
+    "nama": "Patuguran",
+    "lat": -7.32806,
+    "lon": 109.0578
+  },
+  "BMA": {
+    "nama": "BUMIAYU",
+    "lat": -7.23737,
+    "lon": 109.0098
+  },
+  "KRO": {
+    "nama": "Kebon Romo",
+    "lat": -7.41907,
+    "lon": 111.064
+  },
+  "JN": {
+    "nama": "JENAR",
+    "lat": -7.802,
+    "lon": 110.0008
+  },
+  "WJ": {
+    "nama": "WOJO",
+    "lat": -7.86188,
+    "lon": 110.0406
+  },
+  "SMO": {
+    "nama": "ADI SOEMARMO",
+    "lat": -7.51348,
+    "lon": 110.74788
+  },
+  "KT": {
+    "nama": "KLATEN",
+    "lat": -7.71228,
+    "lon": 110.603
+  },
+  "CE": {
+    "nama": "Ceper",
+    "lat": -7.66901,
+    "lon": 110.675
+  },
+  "DL": {
+    "nama": "Delanggu",
+    "lat": -7.62207,
+    "lon": 110.7066
+  },
+  "SWT": {
+    "nama": "Srowot",
+    "lat": -7.74127,
+    "lon": 110.5494
+  },
+  "BBN": {
+    "nama": "BRAMBANAN",
+    "lat": -7.75647,
+    "lon": 110.5004
+  },
+  "PNT": {
+    "nama": "PASAR NGUTER",
+    "lat": -7.74139,
+    "lon": 110.8786
+  },
+  "SKH": {
+    "nama": "SUKOHARJO",
+    "lat": -7.67981,
+    "lon": 110.8432
+  },
+  "GW": {
+    "nama": "Gawok",
+    "lat": -7.58942,
+    "lon": 110.7444
+  },
+  "WNG": {
+    "nama": "Winongan",
+    "lat": -7.7276,
+    "lon": 112.9596
+  },
+  "KO": {
+    "nama": "Kalioso",
+    "lat": -7.46619,
+    "lon": 110.8052
+  },
+  "KMR": {
+    "nama": "Kemiri",
+    "lat": -7.534,
+    "lon": 110.9014
+  },
+  "PL": {
+    "nama": "Palur",
+    "lat": -7.56818,
+    "lon": 110.8756
+  },
+  "SLM": {
+    "nama": "SALEM",
+    "lat": -7.39557,
+    "lon": 110.8272
+  },
+  "SR": {
+    "nama": "SRAGEN",
+    "lat": -7.42938,
+    "lon": 111.018
+  },
+  "KDB": {
+    "nama": "Kedungbanteng",
+    "lat": -7.40521,
+    "lon": 111.1172
+  },
+  "MSR": {
+    "nama": "Masaran",
+    "lat": -7.46808,
+    "lon": 110.9478
+  },
+  "SUM": {
+    "nama": "Sumber Lawang",
+    "lat": -7.3277,
+    "lon": 110.8638
+  },
+  "KDO": {
+    "nama": "KADIPIRO",
+    "lat": -7.53103,
+    "lon": 110.81796
+  },
+  "PWS": {
+    "nama": "PURWOSARI",
+    "lat": -7.56177,
+    "lon": 110.7964
+  },
+  "SK": {
+    "nama": "SOLO JEBRES",
+    "lat": -7.56207,
+    "lon": 110.8394
+  },
+  "SLO": {
+    "nama": "SOLO BALAPAN",
+    "lat": -7.55719,
+    "lon": 110.8214
+  },
+  "KDG": {
+    "nama": "KEDUNDANG",
+    "lat": -7.85919,
+    "lon": 110.2094
+  },
+  "YIA": {
+    "nama": "YOGYAKARTA INTERNATIONAL AIRPORT",
+    "lat": -7.89746,
+    "lon": 110.06132
+  },
+  "STL": {
+    "nama": "Sentolo",
+    "lat": -7.83319,
+    "lon": 110.2202
+  },
+  "WT": {
+    "nama": "WATES",
+    "lat": -7.8595,
+    "lon": 110.158
+  },
+  "RWL": {
+    "nama": "Rewulu",
+    "lat": -7.7959,
+    "lon": 110.2842
+  },
+  "PTN": {
+    "nama": "Patukan",
+    "lat": -7.79077,
+    "lon": 110.3254
+  },
+  "MGW": {
+    "nama": "MAGUWO",
+    "lat": -7.78497,
+    "lon": 110.437
+  },
+  "LPN": {
+    "nama": "LEMPUYANGAN",
+    "lat": -7.7901,
+    "lon": 110.3748
+  },
+  "YK": {
+    "nama": "TUGU",
+    "lat": -7.78918,
+    "lon": 110.3636
+  },
+  "NJG": {
+    "nama": "NGUJANG",
+    "lat": -8.0105,
+    "lon": 111.9272
+  },
+  "NT": {
+    "nama": "NGUNUT",
+    "lat": -8.10278,
+    "lon": 112.0122
+  },
+  "RJ": {
+    "nama": "REJO TANGAN",
+    "lat": -8.12097,
+    "lon": 112.0812
+  },
+  "SBL": {
+    "nama": "SUMBER GEMPOL",
+    "lat": -8.0824,
+    "lon": 111.9446
+  },
+  "TA": {
+    "nama": "TULUNGAGUNG",
+    "lat": -8.06299,
+    "lon": 111.9048
+  },
+  "CRM": {
+    "nama": "CURAHMALANG",
+    "lat": -7.5069,
+    "lon": 112.3704
+  },
+  "JG": {
+    "nama": "JOMBANG",
+    "lat": -7.5578,
+    "lon": 112.2334
+  },
+  "PTR": {
+    "nama": "PETERONGAN",
+    "lat": -7.54187,
+    "lon": 112.2792
+  },
+  "SMB": {
+    "nama": "SEMBUNG",
+    "lat": -7.5827,
+    "lon": 112.1672
+  },
+  "SBO": {
+    "nama": "SUMOBITO",
+    "lat": -7.51947,
+    "lon": 112.3394
+  },
+  "BRN": {
+    "nama": "BARON",
+    "lat": -7.60278,
+    "lon": 112.039
+  },
+  "KTS": {
+    "nama": "KERTOSONO",
+    "lat": -7.5918,
+    "lon": 112.1008
+  },
+  "NJ": {
+    "nama": "NGANJUK",
+    "lat": -7.6001,
+    "lon": 111.9028
+  },
+  "SKM": {
+    "nama": "SUKOMORO",
+    "lat": -7.6026,
+    "lon": 111.9426
+  },
+  "WLG": {
+    "nama": "WILANGAN",
+    "lat": -7.56122,
+    "lon": 111.8038
+  },
+  "BAT": {
+    "nama": "BARAT",
+    "lat": -7.56219,
+    "lon": 111.4512
+  },
+  "GG": {
+    "nama": "GENENG",
+    "lat": -7.49786,
+    "lon": 111.4188
+  },
+  "KG": {
+    "nama": "KEDUNG GALAR",
+    "lat": -7.41827,
+    "lon": 111.3068
+  },
+  "NGW": {
+    "nama": "NGAWI",
+    "lat": -7.44226,
+    "lon": 111.38695
+  },
+  "PA": {
+    "nama": "PARON",
+    "lat": -7.4422,
+    "lon": 111.3866
+  },
+  "WK": {
+    "nama": "WALIKUKUN",
+    "lat": -7.39868,
+    "lon": 111.2246
+  },
+  "KD": {
+    "nama": "KEDIRI",
+    "lat": -7.8172,
+    "lon": 112.0156
+  },
+  "KRS": {
+    "nama": "Kuarasan",
+    "lat": -7.82928,
+    "lon": 112.1344
+  },
+  "MGN": {
+    "nama": "MINGGIRAN",
+    "lat": -7.72809,
+    "lon": 112.0574
+  },
+  "NDL": {
+    "nama": "NGADILUWIH",
+    "lat": -7.89838,
+    "lon": 111.988
+  },
+  "PPR": {
+    "nama": "PAPAR",
+    "lat": -7.69757,
+    "lon": 112.0796
+  },
+  "PWA": {
+    "nama": "PURWOASRI",
+    "lat": -7.64728,
+    "lon": 112.1002
+  },
+  "SS": {
+    "nama": "SUSUHAN",
+    "lat": -7.77118,
+    "lon": 112.026
+  },
+  "BL": {
+    "nama": "BLITAR",
+    "lat": -8.10138,
+    "lon": 112.1628
+  },
+  "GRM": {
+    "nama": "GARUM",
+    "lat": -8.07349,
+    "lon": 112.217
+  },
+  "TAL": {
+    "nama": "TALUN",
+    "lat": -8.09149,
+    "lon": 112.2886
+  },
+  "BBD": {
+    "nama": "BABADAN",
+    "lat": -7.5871,
+    "lon": 111.5886
+  },
+  "BGR": {
+    "nama": "BAGOR",
+    "lat": -7.57159,
+    "lon": 111.8528
+  },
+  "CRB": {
+    "nama": "CARUBAN",
+    "lat": -7.55096,
+    "lon": 111.6548
+  },
+  "MN": {
+    "nama": "MADIUN",
+    "lat": -7.61841,
+    "lon": 111.525
+  },
+  "SRD": {
+    "nama": "SARADAN",
+    "lat": -7.54749,
+    "lon": 111.7322
+  },
+  "BH": {
+    "nama": "BOHARAN",
+    "lat": -7.38788,
+    "lon": 112.6196
+  },
+  "GDG": {
+    "nama": "GEDANGAN",
+    "lat": -7.38898,
+    "lon": 112.7286
+  },
+  "KDN": {
+    "nama": "KEDINDING",
+    "lat": -7.43707,
+    "lon": 112.5526
+  },
+  "KRN": {
+    "nama": "KRIAN",
+    "lat": -7.4101,
+    "lon": 112.5862
+  },
+  "PR": {
+    "nama": "PORONG",
+    "lat": -7.53839,
+    "lon": 112.7018
+  },
+  "SPJ": {
+    "nama": "SEPANJANG",
+    "lat": -7.34717,
+    "lon": 112.6978
+  },
+  "SDA": {
+    "nama": "SIDOARJO",
+    "lat": -7.45697,
+    "lon": 112.7126
+  },
+  "TGA": {
+    "nama": "TANGGULANGIN",
+    "lat": -7.50677,
+    "lon": 112.7082
+  },
+  "TRK": {
+    "nama": "TARIK",
+    "lat": -7.45947,
+    "lon": 112.5186
+  },
+  "TLN": {
+    "nama": "TULANGAN",
+    "lat": -7.4657,
+    "lon": 112.651
+  },
+  "WR": {
+    "nama": "WARU",
+    "lat": -7.35248,
+    "lon": 112.7294
+  },
+  "BJ": {
+    "nama": "BOJONEGORO",
+    "lat": -7.16437,
+    "lon": 111.8868
+  },
+  "BWO": {
+    "nama": "BOWERNO",
+    "lat": -7.13116,
+    "lon": 112.0998
+  },
+  "KIT": {
+    "nama": "KALITIDU",
+    "lat": -7.13171,
+    "lon": 111.7674
+  },
+  "KPS": {
+    "nama": "KAPAS",
+    "lat": -7.1991,
+    "lon": 111.9334
+  },
+  "SRJ": {
+    "nama": "SUMBEREJO",
+    "lat": -7.17767,
+    "lon": 112.0016
+  },
+  "TBO": {
+    "nama": "TOBO",
+    "lat": -7.17236,
+    "lon": 111.6552
+  },
+  "SYO": {
+    "nama": "Sroyo",
+    "lat": -7.1637,
+    "lon": 112.0438
+  },
+  "TBN": {
+    "nama": "Tuban",
+    "lat": -6.89996,
+    "lon": 112.0582
+  },
+  "BBT": {
+    "nama": "BABAT",
+    "lat": -7.10608,
+    "lon": 112.1686
+  },
+  "GEB": {
+    "nama": "GEMBONG",
+    "lat": -7.10229,
+    "lon": 112.2224
+  },
+  "LMG": {
+    "nama": "LAMONGAN",
+    "lat": -7.11249,
+    "lon": 112.4202
+  },
+  "PC": {
+    "nama": "PUCUK",
+    "lat": -7.09747,
+    "lon": 112.2698
+  },
+  "SLR": {
+    "nama": "SUMLARAN",
+    "lat": -7.09357,
+    "lon": 112.322
+  },
+  "KWL": {
+    "nama": "Kruwul",
+    "lat": -7.10297,
+    "lon": 112.3698
+  },
+  "CME": {
+    "nama": "CERME",
+    "lat": -7.22437,
+    "lon": 112.571
+  },
+  "DD": {
+    "nama": "DUDUK",
+    "lat": -7.1546,
+    "lon": 112.5206
+  },
+  "IDO": {
+    "nama": "INDRO",
+    "lat": -7.17698,
+    "lon": 112.66443
+  },
+  "SBN": {
+    "nama": "Surabayan",
+    "lat": -7.13116,
+    "lon": 112.4802
+  },
+  "KSB": {
+    "nama": "KESAMBEN",
+    "lat": -8.14929,
+    "lon": 112.3636
+  },
+  "PGJ": {
+    "nama": "POHGAJIH",
+    "lat": -8.15729,
+    "lon": 112.4206
+  },
+  "WG": {
+    "nama": "WLINGI",
+    "lat": -8.08832,
+    "lon": 112.32
+  },
+  "BMG": {
+    "nama": "BLIMBING",
+    "lat": -7.9411,
+    "lon": 112.6446
+  },
+  "KPN": {
+    "nama": "KEPANJEN",
+    "lat": -8.1319,
+    "lon": 112.5736
+  },
+  "LW": {
+    "nama": "LAWANG",
+    "lat": -7.83679,
+    "lon": 112.6978
+  },
+  "ML": {
+    "nama": "MALANG",
+    "lat": -7.97742,
+    "lon": 112.6374
+  },
+  "MLK": {
+    "nama": "MALANG KOTA LAMA",
+    "lat": -7.99512,
+    "lon": 112.6324
+  },
+  "NB": {
+    "nama": "NGEBRUK",
+    "lat": -8.15192,
+    "lon": 112.518
+  },
+  "PSI": {
+    "nama": "PAKISAJI",
+    "lat": -8.06927,
+    "lon": 112.5986
+  },
+  "SGS": {
+    "nama": "SINGOSARI",
+    "lat": -7.89697,
+    "lon": 112.6664
+  },
+  "SBP": {
+    "nama": "SUMBER PUCUNG",
+    "lat": -8.15839,
+    "lon": 112.4784
+  },
+  "BG": {
+    "nama": "BANGIL",
+    "lat": -7.599,
+    "lon": 112.7782
+  },
+  "SN": {
+    "nama": "SENGON",
+    "lat": -7.75519,
+    "lon": 112.7246
+  },
+  "SKJ": {
+    "nama": "SUKOREJO",
+    "lat": -7.7193,
+    "lon": 112.7234
+  },
+  "WN": {
+    "nama": "WONOKERTO",
+    "lat": -7.66199,
+    "lon": 112.7552
+  },
+  "MR": {
+    "nama": "MOJOKERTO",
+    "lat": -7.47241,
+    "lon": 112.4344
+  },
+  "BNW": {
+    "nama": "BENOWO",
+    "lat": -7.23407,
+    "lon": 112.6152
+  },
+  "BET": {
+    "nama": "BENTENG",
+    "lat": -7.22119,
+    "lon": 112.744
+  },
+  "JMS": {
+    "nama": "JEMURSARI",
+    "lat": -7.32928,
+    "lon": 112.7314
+  },
+  "KLM": {
+    "nama": "KALIMAS",
+    "lat": -7.21991,
+    "lon": 112.735
+  },
+  "KDA": {
+    "nama": "KANDANGAN",
+    "lat": -7.25079,
+    "lon": 112.6572
+  },
+  "KTL": {
+    "nama": "KERTOMENANGGAL",
+    "lat": -7.34058,
+    "lon": 112.7294
+  },
+  "MGR": {
+    "nama": "MARGOREJO",
+    "lat": -7.3147,
+    "lon": 112.7344
+  },
+  "NGA": {
+    "nama": "NGAGEL",
+    "lat": -7.28778,
+    "lon": 112.7482
+  },
+  "SGU": {
+    "nama": "SURABAYA GUBENG",
+    "lat": -7.2652,
+    "lon": 112.7522
+  },
+  "SGUX": {
+    "nama": "SURABAYA GUBENGX",
+    "lat": -7.2652,
+    "lon": 112.7522
+  },
+  "SB": {
+    "nama": "SURABAYA KOTA",
+    "lat": -7.24298,
+    "lon": 112.742
+  },
+  "SBI": {
+    "nama": "SURABAYA PASAR TURI",
+    "lat": -7.24817,
+    "lon": 112.7312
+  },
+  "TES": {
+    "nama": "TANDES",
+    "lat": -7.25897,
+    "lon": 112.687
+  },
+  "WO": {
+    "nama": "WONOKROMO",
+    "lat": -7.30206,
+    "lon": 112.7394
+  },
+  "SDT": {
+    "nama": "Sidotopo",
+    "lat": -7.23529,
+    "lon": 112.7574
+  },
+  "CKI": {
+    "nama": "CIKINI",
+    "lat": -6.19849,
+    "lon": 106.8412
+  },
+  "GMR": {
+    "nama": "GAMBIR",
+    "lat": -6.1767,
+    "lon": 106.8308
+  },
+  "KMO": {
+    "nama": "KEMAYORAN",
+    "lat": -6.16187,
+    "lon": 106.8414
+  },
+  "KMT": {
+    "nama": "KRAMAT",
+    "lat": -6.19391,
+    "lon": 106.8566
+  },
+  "PLM": {
+    "nama": "PALMERAH",
+    "lat": -6.20758,
+    "lon": 106.7974
+  },
+  "JTR": {
+    "nama": "JATIROTO",
+    "lat": -8.12341,
+    "lon": 113.3642
+  },
+  "KK": {
+    "nama": "KLAKAH",
+    "lat": -7.99371,
+    "lon": 113.2484
+  },
+  "RN": {
+    "nama": "RANUYOSO",
+    "lat": -7.95447,
+    "lon": 113.237
+  },
+  "RDA": {
+    "nama": "Randuangung",
+    "lat": -8.07111,
+    "lon": 113.3058
+  },
+  "AJ": {
+    "nama": "ARJASA",
+    "lat": -8.12787,
+    "lon": 113.7484
+  },
+  "BSS": {
+    "nama": "BANGSALSARI",
+    "lat": -8.203,
+    "lon": 113.5334
+  },
+  "GRN": {
+    "nama": "GARAHAN",
+    "lat": -8.22491,
+    "lon": 113.8958
+  },
+  "JR": {
+    "nama": "JEMBER",
+    "lat": -8.1651,
+    "lon": 113.7034
+  },
+  "KLT": {
+    "nama": "KALISAT",
+    "lat": -8.12701,
+    "lon": 113.8124
+  },
+  "LDO": {
+    "nama": "LEDOKOMBO",
+    "lat": -8.14056,
+    "lon": 113.8756
+  },
+  "RBP": {
+    "nama": "RAMBIPUJI",
+    "lat": -8.20337,
+    "lon": 113.6144
+  },
+  "TGL": {
+    "nama": "Trenggalek (Tugu)",
+    "lat": -8.05347,
+    "lon": 111.7086
+  },
+  "KTK": {
+    "nama": "Kotok",
+    "lat": -8.1261,
+    "lon": 113.779
+  },
+  "MI": {
+    "nama": "Mangli",
+    "lat": -8.1886,
+    "lon": 113.6552
+  },
+  "MRW": {
+    "nama": "Mrawan",
+    "lat": -8.2724,
+    "lon": 113.9268
+  },
+  "SPL": {
+    "nama": "Sempolan",
+    "lat": -8.19257,
+    "lon": 113.8962
+  },
+  "CKR": {
+    "nama": "CIKARANG",
+    "lat": -6.25488,
+    "lon": 107.1446
+  },
+  "LBY": {
+    "nama": "LUBUK BUAYA",
+    "lat": -0.83379,
+    "lon": 100.3277
+  },
+  "THN": {
+    "nama": "TARAHAN",
+    "lat": -5.50322,
+    "lon": 105.33587
+  },
+  "LM": {
+    "nama": "Lumujang",
+    "lat": -8.13538,
+    "lon": 113.2152
+  },
+  "AGO": {
+    "nama": "ARGOPURO",
+    "lat": -8.18359,
+    "lon": 114.3694
+  },
+  "BWI": {
+    "nama": "BANYUWANGI KOTA",
+    "lat": -8.21429,
+    "lon": 114.378
+  },
+  "BW": {
+    "nama": "BANYUWANGI BARU (KETAPANG)",
+    "lat": -8.14117,
+    "lon": 114.3974
+  },
+  "GLM": {
+    "nama": "GLENMORE",
+    "lat": -8.2995,
+    "lon": 114.0494
+  },
+  "KBR": {
+    "nama": "KALIBARU",
+    "lat": -8.28888,
+    "lon": 113.9844
+  },
+  "KSL": {
+    "nama": "KALISETAIL",
+    "lat": -8.30292,
+    "lon": 114.1402
+  },
+  "KNE": {
+    "nama": "KARANG ASEM (BANYUWANGI KOTA)",
+    "lat": -8.2229,
+    "lon": 114.3408
+  },
+  "KTP": {
+    "nama": "KETAPANG",
+    "lat": -4.71749,
+    "lon": 104.79851
+  },
+  "RGP": {
+    "nama": "ROGOJAMPI",
+    "lat": -8.3045,
+    "lon": 114.2926
+  },
+  "SGJ": {
+    "nama": "SINGOJURUH",
+    "lat": -8.30658,
+    "lon": 114.2408
+  },
+  "SWD": {
+    "nama": "SUMBER WADUNG",
+    "lat": -8.30188,
+    "lon": 114.1054
+  },
+  "TGR": {
+    "nama": "TEMUGURUH",
+    "lat": -8.30957,
+    "lon": 114.2024
+  },
+  "BYM": {
+    "nama": "BAYEMAN",
+    "lat": -7.73468,
+    "lon": 113.1188
+  },
+  "PME": {
+    "nama": "PAMINGKE",
+    "lat": 2.37701,
+    "lon": 99.76099
+  },
+  "SIU": {
+    "nama": "SITUNGIR",
+    "lat": 2.49481,
+    "lon": 99.67401
+  },
+  "MDN": {
+    "nama": "MEDAN",
+    "lat": 3.59082,
+    "lon": 98.67963
+  },
+  "PUB": {
+    "nama": "PULO BRAYAN",
+    "lat": 3.63184,
+    "lon": 98.67059
+  },
+  "BLW": {
+    "nama": "Belawan",
+    "lat": 3.7782,
+    "lon": 98.68164
+  },
+  "LBU": {
+    "nama": "Labuan",
+    "lat": -6.37518,
+    "lon": 105.825
+  },
+  "TAS": {
+    "nama": "Tanjung Selamat",
+    "lat": 3.53143,
+    "lon": 98.63599
+  },
+  "SIR": {
+    "nama": "SIANTAR",
+    "lat": 2.95923,
+    "lon": 99.06299
+  },
+  "TNB": {
+    "nama": "TANJUNG BALAI",
+    "lat": 2.97101,
+    "lon": 99.79999
+  },
+  "BIJ": {
+    "nama": "BINJAI",
+    "lat": 3.60541,
+    "lon": 98.49762
+  },
+  "LDT": {
+    "nama": "LIDAH TANAH",
+    "lat": 3.56299,
+    "lon": 99.0145
+  },
+  "TBI": {
+    "nama": "TEBING TINGGI",
+    "lat": 3.32703,
+    "lon": 99.16821
+  },
+  "KBU": {
+    "nama": "Kota Baru",
+    "lat": -0.40149,
+    "lon": 100.41
+  },
+  "DUK": {
+    "nama": "DUKU",
+    "lat": -0.78699,
+    "lon": 100.3168
+  },
+  "LA": {
+    "nama": "LUBUK ALUNG",
+    "lat": -0.6781,
+    "lon": 100.2892
+  },
+  "KTN": {
+    "nama": "KAYU TANAM",
+    "lat": -0.5481,
+    "lon": 100.3314
+  },
+  "PRU": {
+    "nama": "PASAR USANG",
+    "lat": -0.73639,
+    "lon": 100.3106
+  },
+  "PAK": {
+    "nama": "PAUH KAMBAR",
+    "lat": -0.65137,
+    "lon": 100.2196
+  },
+  "SCN": {
+    "nama": "SICINCIN",
+    "lat": -0.5661,
+    "lon": 100.278
+  },
+  "ATR": {
+    "nama": "AIR TAWAR",
+    "lat": -0.90037,
+    "lon": 100.35076
+  },
+  "BKP": {
+    "nama": "BUKITPUTUS",
+    "lat": -0.98574,
+    "lon": 100.3854
+  },
+  "IDA": {
+    "nama": "INDARUNG",
+    "lat": -0.94994,
+    "lon": 100.4674
+  },
+  "PD": {
+    "nama": "PADANG",
+    "lat": -0.94177,
+    "lon": 100.3738
+  },
+  "IMA": {
+    "nama": "PAUHLIMA",
+    "lat": -0.93785,
+    "lon": 100.435
+  },
+  "TAB": {
+    "nama": "TABING",
+    "lat": -0.8667,
+    "lon": 100.3426
+  },
+  "MKL": {
+    "nama": "MUARA KALABAN",
+    "lat": -0.71198,
+    "lon": 100.7878
+  },
+  "SWL": {
+    "nama": "SAWAH LUNTO",
+    "lat": -0.68298,
+    "lon": 100.7772
+  },
+  "NRS": {
+    "nama": "NARAS",
+    "lat": -0.5708,
+    "lon": 100.0978
+  },
+  "PMN": {
+    "nama": "PARIAMAN",
+    "lat": -0.62646,
+    "lon": 100.1166
+  },
+  "GLB": {
+    "nama": "GLUMBANG",
+    "lat": -3.24609,
+    "lon": 104.4414
+  },
+  "KED": {
+    "nama": "KARANG ENDAH",
+    "lat": -3.30377,
+    "lon": 104.396
+  },
+  "LEB": {
+    "nama": "LEMBAK",
+    "lat": -3.34229,
+    "lon": 104.3418
+  },
+  "ME": {
+    "nama": "MUARAENIM",
+    "lat": -3.65277,
+    "lon": 103.7764
+  },
+  "MRL": {
+    "nama": "MUARAGULA",
+    "lat": -3.58588,
+    "lon": 103.7758
+  },
+  "SDN": {
+    "nama": "SERDANG",
+    "lat": -3.21991,
+    "lon": 104.5232
+  },
+  "UJM": {
+    "nama": "UJANMAS",
+    "lat": -3.53217,
+    "lon": 103.7764
+  },
+  "TMB": {
+    "nama": "TANJUNG ENIM BARU",
+    "lat": -3.70618,
+    "lon": 103.7996
+  },
+  "BIB": {
+    "nama": "BELIMBING/BELIMBING PENDOPO",
+    "lat": -3.44299,
+    "lon": 103.9758
+  },
+  "GNM": {
+    "nama": "GUNUNGMEGANG",
+    "lat": -3.45398,
+    "lon": 103.8668
+  },
+  "NRU": {
+    "nama": "NIRU",
+    "lat": -3.45349,
+    "lon": 104.0644
+  },
+  "PNG": {
+    "nama": "Penanggiran",
+    "lat": -3.48169,
+    "lon": 103.813
+  },
+  "BJI": {
+    "nama": "Banjarsari",
+    "lat": -7.44366,
+    "lon": 109.3288
+  },
+  "LT": {
+    "nama": "LAHAT",
+    "lat": -3.78967,
+    "lon": 103.5376
+  },
+  "SCT": {
+    "nama": "SUKACINTA",
+    "lat": -3.77838,
+    "lon": 103.6252
+  },
+  "SUA": {
+    "nama": "SUKARAJA",
+    "lat": -3.66339,
+    "lon": 103.2722
+  },
+  "SNA": {
+    "nama": "SAUNGNAGA",
+    "lat": -3.62628,
+    "lon": 103.1894
+  },
+  "PYK": {
+    "nama": "PAYAKABUNG",
+    "lat": -3.1991,
+    "lon": 104.6044
+  },
+  "SIG": {
+    "nama": "SIMPANG",
+    "lat": -3.10297,
+    "lon": 104.6994
+  },
+  "IDR": {
+    "nama": "INDRALAYA",
+    "lat": -3.20819,
+    "lon": 104.6428
+  },
+  "TI": {
+    "nama": "TEBINGTINGGI",
+    "lat": -3.58459,
+    "lon": 103.0818
+  },
+  "MSL": {
+    "nama": "MUARASALING",
+    "lat": -3.4325,
+    "lon": 103.0416
+  },
+  "KPT": {
+    "nama": "KERTAPATI",
+    "lat": -3.01678,
+    "lon": 104.7516
+  },
+  "LLG": {
+    "nama": "LUBUK LINGGAU",
+    "lat": -3.29327,
+    "lon": 102.8642
+  },
+  "PNM": {
+    "nama": "PENIMUR",
+    "lat": -3.44598,
+    "lon": 104.1558
+  },
+  "PBM": {
+    "nama": "PRABUMULIH",
+    "lat": -3.43298,
+    "lon": 104.2408
+  },
+  "PBR": {
+    "nama": "Prabumulih Baru",
+    "lat": -3.4422,
+    "lon": 104.2242
+  },
+  "KOP": {
+    "nama": "KOTAPADANG",
+    "lat": -3.42609,
+    "lon": 102.967
+  },
+  "MET": {
+    "nama": "METUR",
+    "lat": -3.79102,
+    "lon": 104.3452
+  },
+  "BLT": {
+    "nama": "Belatung",
+    "lat": -4.02661,
+    "lon": 104.2288
+  },
+  "BIK": {
+    "nama": "Belimbing Air Kaka",
+    "lat": -3.99109,
+    "lon": 104.292
+  },
+  "LBT": {
+    "nama": "Lubuk Batang",
+    "lat": -4.05768,
+    "lon": 104.2176
+  },
+  "BTA": {
+    "nama": "BATURAJA",
+    "lat": -4.1275,
+    "lon": 104.1624
+  },
+  "PNW": {
+    "nama": "PENINJAWAN",
+    "lat": -3.87952,
+    "lon": 104.3766
+  },
+  "LRM": {
+    "nama": "Lubuk Rukam",
+    "lat": -3.9328,
+    "lon": 104.3406
+  },
+  "SPC": {
+    "nama": "Sepancar",
+    "lat": -4.18427,
+    "lon": 104.2104
+  },
+  "TJH": {
+    "nama": "Tiga Gajah",
+    "lat": -4.11078,
+    "lon": 104.1688
+  },
+  "PGG": {
+    "nama": "PAGAR GUNUNG",
+    "lat": -3.69382,
+    "lon": 104.32034
+  },
+  "GLS": {
+    "nama": "GILAS",
+    "lat": -4.2641,
+    "lon": 104.2852
+  },
+  "MP": {
+    "nama": "MARTAPURA",
+    "lat": -4.31628,
+    "lon": 104.347
+  },
+  "SGT": {
+    "nama": "SUNGAI TUHA",
+    "lat": -4.28146,
+    "lon": 104.31971
+  },
+  "TJR": {
+    "nama": "TANJUNG RAMBANG",
+    "lat": -3.54401,
+    "lon": 104.262
+  },
+  "GDR": {
+    "nama": "GEDUNG RATU",
+    "lat": -5.3428,
+    "lon": 105.22334
+  },
+  "RJS": {
+    "nama": "REDJOSARI",
+    "lat": -5.29407,
+    "lon": 105.188
+  },
+  "BKI": {
+    "nama": "BEKRI",
+    "lat": -5.07281,
+    "lon": 105.136
+  },
+  "HJP": {
+    "nama": "HAJI PAMANGGILAN",
+    "lat": -5.00201,
+    "lon": 105.1068
+  },
+  "RGS": {
+    "nama": "RENGAS",
+    "lat": -5.133,
+    "lon": 105.1542
+  },
+  "SLS": {
+    "nama": "SULUSUBAN",
+    "lat": -4.94641,
+    "lon": 105.0832
+  },
+  "BBA": {
+    "nama": "BLAMBANGAN PAGAR",
+    "lat": -4.89517,
+    "lon": 105.03941
+  },
+  "CMS": {
+    "nama": "CANDIMAS",
+    "lat": -4.8499,
+    "lon": 104.92569
+  },
+  "CEP": {
+    "nama": "CEMPAKA",
+    "lat": -4.79371,
+    "lon": 104.8195
+  },
+  "KAG": {
+    "nama": "KALIBALANGAN",
+    "lat": -4.86646,
+    "lon": 104.97274
+  },
+  "KB": {
+    "nama": "KOTABUMI",
+    "lat": -4.82172,
+    "lon": 104.88124
+  },
+  "NRR": {
+    "nama": "NEGARA RATU",
+    "lat": -4.65662,
+    "lon": 104.7378
+  },
+  "TGI": {
+    "nama": "TEGINENENG",
+    "lat": -5.20213,
+    "lon": 105.17204
+  },
+  "TLY": {
+    "nama": "TULUNG BUYUT",
+    "lat": -4.62579,
+    "lon": 104.6646
+  },
+  "BBU": {
+    "nama": "BLAMBANGAN UMPU",
+    "lat": -4.49817,
+    "lon": 104.5202
+  },
+  "GHM": {
+    "nama": "GIHAM",
+    "lat": -4.42047,
+    "lon": 104.494
+  },
+  "NGN": {
+    "nama": "NEGRI AGUNG",
+    "lat": -4.57251,
+    "lon": 104.6058
+  },
+  "WAP": {
+    "nama": "WAY PISANG",
+    "lat": -4.34979,
+    "lon": 104.3868
+  },
+  "WAY": {
+    "nama": "WAY TUBA",
+    "lat": -4.37952,
+    "lon": 104.4118
+  },
+  "TJO": {
+    "nama": "Tanjung Rajo",
+    "lat": -4.40759,
+    "lon": 104.4626
+  },
+  "PID": {
+    "nama": "PIDADA",
+    "lat": -5.46149,
+    "lon": 105.3162
+  },
+  "LAR": {
+    "nama": "LABUAN RATU",
+    "lat": -5.3725,
+    "lon": 105.2524
+  },
+  "PJN": {
+    "nama": "Panjang",
+    "lat": -5.4696,
+    "lon": 105.321
+  },
+  "TNK": {
+    "nama": "TANJUNG KARANG",
+    "lat": -5.40857,
+    "lon": 105.2602
+  },
+  "BDN": {
+    "nama": "Bedono",
+    "lat": -7.3092,
+    "lon": 110.353
+  },
+  "MPG": {
+    "nama": "Mampang",
+    "lat": -6.20587,
+    "lon": 106.8394
+  },
+  "CPN": {
+    "nama": "CIPINANG",
+    "lat": -6.21417,
+    "lon": 106.8844
+  },
+  "CJB": {
+    "nama": "Cijambe",
+    "lat": -6.81769,
+    "lon": 106.76
+  },
+  "STI": {
+    "nama": "Saketi",
+    "lat": -6.40448,
+    "lon": 105.9914
+  },
+  "BYH": {
+    "nama": "Bayah",
+    "lat": -6.96307,
+    "lon": 106.2618
+  },
+  "ANK": {
+    "nama": "Anyerkidul",
+    "lat": -6.0708,
+    "lon": 105.8872
+  },
+  "CLK": {
+    "nama": "Cilaku",
+    "lat": -6.888,
+    "lon": 107.1266
+  },
+  "MLB": {
+    "nama": "Maleber",
+    "lat": -6.81787,
+    "lon": 107.1756
+  },
+  "SLJ": {
+    "nama": "Selajambe",
+    "lat": -6.8136,
+    "lon": 107.2226
+  },
+  "DYK": {
+    "nama": "Dayeuhkolot",
+    "lat": -6.9892,
+    "lon": 107.628
+  },
+  "MJY": {
+    "nama": "Majalaya",
+    "lat": -7.04761,
+    "lon": 107.7584
+  },
+  "SRG": {
+    "nama": "Soreang",
+    "lat": -7.02667,
+    "lon": 107.5202
+  },
+  "CK": {
+    "nama": "Cikajang",
+    "lat": -7.35608,
+    "lon": 107.8044
+  },
+  "CSN": {
+    "nama": "Cisurupan",
+    "lat": -7.31079,
+    "lon": 107.7954
+  },
+  "PRS": {
+    "nama": "Pirusa",
+    "lat": -7.28827,
+    "lon": 108.1366
+  },
+  "CG": {
+    "nama": "Cisomang",
+    "lat": -6.68628,
+    "lon": 107.3978
+  },
+  "SAD": {
+    "nama": "Sadang",
+    "lat": -6.51068,
+    "lon": 107.4564
+  },
+  "RM": {
+    "nama": "Raja Mandala",
+    "lat": -6.82446,
+    "lon": 107.3466
+  },
+  "CIJ": {
+    "nama": "Cijulang",
+    "lat": -7.72699,
+    "lon": 108.4744
+  },
+  "KLC": {
+    "nama": "Kalipucang",
+    "lat": -7.63501,
+    "lon": 108.751
+  },
+  "PND": {
+    "nama": "Pangandaran",
+    "lat": -7.67596,
+    "lon": 108.631
+  },
+  "CWD": {
+    "nama": "Ciwidey",
+    "lat": -7.1015,
+    "lon": 107.4654
+  },
+  "SPN": {
+    "nama": "Singaparna",
+    "lat": -7.35248,
+    "lon": 108.1128
+  },
+  "KLW": {
+    "nama": "Kaliwates",
+    "lat": -8.17737,
+    "lon": 113.6774
+  },
+  "KAD": {
+    "nama": "Kadipaten",
+    "lat": -6.76947,
+    "lon": 108.1698
+  },
+  "IM": {
+    "nama": "Indramayu",
+    "lat": -6.349,
+    "lon": 108.3214
+  },
+  "KAP": {
+    "nama": "Karangampel",
+    "lat": -6.46021,
+    "lon": 108.4574
+  },
+  "BKA": {
+    "nama": "Bulakamba",
+    "lat": -6.8761,
+    "lon": 108.9486
+  },
+  "KGB": {
+    "nama": "Ketanggungan Barat",
+    "lat": -6.9292,
+    "lon": 108.8562
+  },
+  "GOG": {
+    "nama": "Godong",
+    "lat": -7.02258,
+    "lon": 110.7728
+  },
+  "PW": {
+    "nama": "Purwodadi",
+    "lat": -7.08337,
+    "lon": 110.9116
+  },
+  "WLS": {
+    "nama": "Wirosari",
+    "lat": -7.0788,
+    "lon": 111.0938
+  },
+  "BLA": {
+    "nama": "Blora",
+    "lat": -6.97119,
+    "lon": 111.4242
+  },
+  "KDR": {
+    "nama": "Kunduran",
+    "lat": -7.0506,
+    "lon": 111.2408
+  },
+  "NA": {
+    "nama": "Ngawen",
+    "lat": -7.00488,
+    "lon": 111.3136
+  },
+  "DEK": {
+    "nama": "Delok",
+    "lat": -6.70337,
+    "lon": 111.245
+  },
+  "LS": {
+    "nama": "Lasem",
+    "lat": -6.6955,
+    "lon": 111.4372
+  },
+  "MNT": {
+    "nama": "Mantingan",
+    "lat": -6.86377,
+    "lon": 111.4244
+  },
+  "PMT": {
+    "nama": "Pamotan",
+    "lat": -6.76337,
+    "lon": 111.4912
+  },
+  "RB": {
+    "nama": "Rembang",
+    "lat": -6.70959,
+    "lon": 111.3424
+  },
+  "BIS": {
+    "nama": "Bulumanis",
+    "lat": -6.61108,
+    "lon": 111.0648
+  },
+  "JU": {
+    "nama": "Juwana",
+    "lat": -6.72009,
+    "lon": 111.1444
+  },
+  "PT": {
+    "nama": "Pati",
+    "lat": -6.75018,
+    "lon": 111.0276
+  },
+  "TAY": {
+    "nama": "Tayu",
+    "lat": -6.5354,
+    "lon": 111.0506
+  },
+  "KUD": {
+    "nama": "Kudus",
+    "lat": -6.8147,
+    "lon": 110.8448
+  },
+  "MY": {
+    "nama": "Mayong",
+    "lat": -6.7475,
+    "lon": 110.7562
+  },
+  "PCG": {
+    "nama": "Pecangaan",
+    "lat": -6.6922,
+    "lon": 110.7068
+  },
+  "WLH": {
+    "nama": "Welahan",
+    "lat": -6.78809,
+    "lon": 110.725
+  },
+  "BYA": {
+    "nama": "Buyaran",
+    "lat": -6.91949,
+    "lon": 110.5976
+  },
+  "DM": {
+    "nama": "Demak",
+    "lat": -6.90118,
+    "lon": 110.6344
+  },
+  "NLR": {
+    "nama": "Ngaloran",
+    "lat": -6.87097,
+    "lon": 110.7294
+  },
+  "SYG": {
+    "nama": "Sayung",
+    "lat": -6.9411,
+    "lon": 110.5102
+  },
+  "TTG": {
+    "nama": "TUNTANG",
+    "lat": -7.26068,
+    "lon": 110.4542
+  },
+  "BRI": {
+    "nama": "Beringin (Bringin)",
+    "lat": -7.2533,
+    "lon": 110.5236
+  },
+  "JMB": {
+    "nama": "Jambu",
+    "lat": -7.27979,
+    "lon": 110.3688
+  },
+  "BSK": {
+    "nama": "Besokor",
+    "lat": -6.97168,
+    "lon": 110.1316
+  },
+  "KL": {
+    "nama": "Kendal",
+    "lat": -6.9209,
+    "lon": 110.1924
+  },
+  "WNP": {
+    "nama": "Wonopringgo",
+    "lat": -6.99249,
+    "lon": 109.6332
+  },
+  "GNK": {
+    "nama": "Genuk",
+    "lat": -6.95227,
+    "lon": 110.4788
+  },
+  "SMT": {
+    "nama": "SEMARANG TAWANG BANK JATENG",
+    "lat": -6.95587,
+    "lon": 110.4388
+  },
+  "LGK": {
+    "nama": "Legok",
+    "lat": -7.35547,
+    "lon": 109.0872
+  },
+  "PKJ": {
+    "nama": "Patikraja",
+    "lat": -7.49799,
+    "lon": 109.2134
+  },
+  "PKT": {
+    "nama": "Purwokerto Timur",
+    "lat": -7.42438,
+    "lon": 109.2402
+  },
+  "SOK": {
+    "nama": "Sokaraja",
+    "lat": -7.46088,
+    "lon": 109.2902
+  },
+  "BA": {
+    "nama": "Banjarnegara",
+    "lat": -7.39819,
+    "lon": 109.6544
+  },
+  "PWJ": {
+    "nama": "PAGERWOJO",
+    "lat": -7.44128,
+    "lon": 112.7156
+  },
+  "SOA": {
+    "nama": "Soka",
+    "lat": -7.67908,
+    "lon": 109.6396
+  },
+  "MTL": {
+    "nama": "Montelan",
+    "lat": -7.7536,
+    "lon": 109.9498
+  },
+  "PWR": {
+    "nama": "Purworejo",
+    "lat": -7.6886,
+    "lon": 110.0604
+  },
+  "SOR": {
+    "nama": "Selokromo",
+    "lat": -7.42377,
+    "lon": 109.8606
+  },
+  "WS": {
+    "nama": "Wonosobo",
+    "lat": -7.35999,
+    "lon": 109.8984
+  },
+  "SCA": {
+    "nama": "Secang",
+    "lat": -7.39209,
+    "lon": 110.2418
+  },
+  "BI": {
+    "nama": "Boyolali",
+    "lat": -7.53748,
+    "lon": 110.5998
+  },
+  "KIM": {
+    "nama": "Kalisamin",
+    "lat": -7.6264,
+    "lon": 110.8428
+  },
+  "KNL": {
+    "nama": "Kronelan",
+    "lat": -7.59601,
+    "lon": 110.8534
+  },
+  "BRO": {
+    "nama": "Baturetno",
+    "lat": -7.97809,
+    "lon": 110.9306
+  },
+  "PN": {
+    "nama": "Parakan",
+    "lat": -7.27991,
+    "lon": 110.1012
+  },
+  "TMG": {
+    "nama": "Temanggung",
+    "lat": -7.3125,
+    "lon": 110.1832
+  },
+  "MG": {
+    "nama": "Magelang",
+    "lat": -7.46851,
+    "lon": 110.2184
+  },
+  "SWG": {
+    "nama": "Sewugalur",
+    "lat": -7.9425,
+    "lon": 110.205
+  },
+  "PLP": {
+    "nama": "Palbapang",
+    "lat": -7.9068,
+    "lon": 110.3194
+  },
+  "PDG": {
+    "nama": "Pundung",
+    "lat": -7.96167,
+    "lon": 110.3426
+  },
+  "SDY": {
+    "nama": "Sedayu",
+    "lat": -7.80341,
+    "lon": 110.259
+  },
+  "SDK": {
+    "nama": "Srandakan",
+    "lat": -7.94037,
+    "lon": 110.2472
+  },
+  "NBN": {
+    "nama": "Ngabean",
+    "lat": -7.81177,
+    "lon": 110.355
+  },
+  "PGD": {
+    "nama": "Pasar Gede",
+    "lat": -7.823,
+    "lon": 110.3996
+  },
+  "BDG": {
+    "nama": "Badegan",
+    "lat": -7.87921,
+    "lon": 111.3354
+  },
+  "BNG": {
+    "nama": "Balong",
+    "lat": -7.95978,
+    "lon": 111.4404
+  },
+  "PO": {
+    "nama": "Ponorogo",
+    "lat": -7.8678,
+    "lon": 111.4702
+  },
+  "SLH": {
+    "nama": "Slahung",
+    "lat": -8.03131,
+    "lon": 111.4162
+  },
+  "GU": {
+    "nama": "Gurah",
+    "lat": -7.80731,
+    "lon": 112.089
+  },
+  "JKL": {
+    "nama": "Jengkol",
+    "lat": -7.86749,
+    "lon": 112.1506
+  },
+  "KTO": {
+    "nama": "Konto",
+    "lat": -7.7547,
+    "lon": 112.2822
+  },
+  "PE": {
+    "nama": "Pare",
+    "lat": -7.76727,
+    "lon": 112.1924
+  },
+  "PST": {
+    "nama": "Pehsentee",
+    "lat": -7.81189,
+    "lon": 112.2898
+  },
+  "MJG": {
+    "nama": "Majoagung",
+    "lat": -7.5705,
+    "lon": 112.343
+  },
+  "NGR": {
+    "nama": "Ngoro",
+    "lat": -7.6908,
+    "lon": 112.2686
+  },
+  "POS": {
+    "nama": "Ploso",
+    "lat": -7.4538,
+    "lon": 112.2268
+  },
+  "PLR": {
+    "nama": "Pulorejo",
+    "lat": -7.6731,
+    "lon": 112.2254
+  },
+  "PES": {
+    "nama": "Pesantren",
+    "lat": -7.83588,
+    "lon": 112.0532
+  },
+  "BTW": {
+    "nama": "Batu Lawang",
+    "lat": -8.10876,
+    "lon": 112.636
+  },
+  "DPT": {
+    "nama": "Dampit",
+    "lat": -8.21387,
+    "lon": 112.7522
+  },
+  "GDL": {
+    "nama": "Gondang Legi",
+    "lat": -8.1709,
+    "lon": 112.6424
+  },
+  "TPG": {
+    "nama": "Tumpang",
+    "lat": -8.0033,
+    "lon": 112.7618
+  },
+  "JBG": {
+    "nama": "Jabung",
+    "lat": -7.74487,
+    "lon": 113.452
+  },
+  "MLS": {
+    "nama": "Malasan",
+    "lat": -7.8844,
+    "lon": 113.2596
+  },
+  "GNG": {
+    "nama": "Gunung Gangsir",
+    "lat": -7.58478,
+    "lon": 112.7248
+  },
+  "JPN": {
+    "nama": "Japanan",
+    "lat": -7.56207,
+    "lon": 112.6924
+  },
+  "NGE": {
+    "nama": "Ngempit",
+    "lat": -7.66547,
+    "lon": 112.8548
+  },
+  "NGU": {
+    "nama": "Nguling",
+    "lat": -7.71808,
+    "lon": 113.0732
+  },
+  "WRD": {
+    "nama": "Warungdowo",
+    "lat": -7.67529,
+    "lon": 112.8876
+  },
+  "BJK": {
+    "nama": "BANJARKEMANTREN",
+    "lat": -7.41187,
+    "lon": 112.7262
+  },
+  "BDR": {
+    "nama": "BUDURAN",
+    "lat": -7.42792,
+    "lon": 112.723
+  },
+  "STP": {
+    "nama": "SAWOTRATAP",
+    "lat": -7.3678,
+    "lon": 112.7294
+  },
+  "PBN": {
+    "nama": "Prambon",
+    "lat": -7.46136,
+    "lon": 112.5644
+  },
+  "BGS": {
+    "nama": "Bangsal",
+    "lat": -7.4953,
+    "lon": 112.4786
+  },
+  "BRL": {
+    "nama": "Brangkal",
+    "lat": -7.53241,
+    "lon": 112.4072
+  },
+  "DNY": {
+    "nama": "Dinoyo",
+    "lat": -7.5824,
+    "lon": 112.4214
+  },
+  "GKP": {
+    "nama": "Gempolkerep",
+    "lat": -7.45667,
+    "lon": 112.3876
+  },
+  "LPD": {
+    "nama": "Lespadangan",
+    "lat": -7.4574,
+    "lon": 112.4324
+  },
+  "PJJ": {
+    "nama": "Pohjejer",
+    "lat": -7.60638,
+    "lon": 112.4724
+  },
+  "JTG": {
+    "nama": "Jatirogo",
+    "lat": -6.88422,
+    "lon": 111.6546
+  },
+  "MKR": {
+    "nama": "Merakurak",
+    "lat": -6.8866,
+    "lon": 111.9992
+  },
+  "PMG": {
+    "nama": "Plumpang",
+    "lat": -7.02338,
+    "lon": 112.1
+  },
+  "BLK": {
+    "nama": "Bluluk",
+    "lat": -7.27649,
+    "lon": 112.1348
+  },
+  "KEI": {
+    "nama": "Kedungpring",
+    "lat": -7.18628,
+    "lon": 112.1958
+  },
+  "NBG": {
+    "nama": "Ngimbang",
+    "lat": -7.28381,
+    "lon": 112.2154
+  },
+  "GS": {
+    "nama": "Gresik",
+    "lat": -7.15289,
+    "lon": 112.6578
+  },
+  "BGA": {
+    "nama": "Balega",
+    "lat": -7.12988,
+    "lon": 113.0626
+  },
+  "BKL": {
+    "nama": "Bangkalan",
+    "lat": -7.02527,
+    "lon": 112.748
+  },
+  "KML": {
+    "nama": "Kamal",
+    "lat": -7.16498,
+    "lon": 112.72
+  },
+  "KWR": {
+    "nama": "Kwanyar",
+    "lat": -7.15198,
+    "lon": 112.8676
+  },
+  "TNM": {
+    "nama": "Tanah Merah",
+    "lat": -7.08997,
+    "lon": 112.8884
+  },
+  "SPG": {
+    "nama": "Sampang",
+    "lat": -7.20306,
+    "lon": 113.2492
+  },
+  "PM": {
+    "nama": "Pamekasan",
+    "lat": -7.16107,
+    "lon": 113.487
+  },
+  "KLG": {
+    "nama": "Kalianget",
+    "lat": -7.05347,
+    "lon": 113.9424
+  },
+  "SMN": {
+    "nama": "Sumenep",
+    "lat": -7.00616,
+    "lon": 113.864
+  },
+  "PSR": {
+    "nama": "Pasirian",
+    "lat": -8.21649,
+    "lon": 113.1154
+  },
+  "ABL": {
+    "nama": "Ambulu",
+    "lat": -8.34747,
+    "lon": 113.5938
+  },
+  "BUG": {
+    "nama": "Balung",
+    "lat": -8.27289,
+    "lon": 113.5384
+  },
+  "KYR": {
+    "nama": "Kasiyamlor",
+    "lat": -8.31537,
+    "lon": 113.4842
+  },
+  "PG": {
+    "nama": "Puger",
+    "lat": -8.37219,
+    "lon": 113.474
+  },
+  "SBB": {
+    "nama": "Sumberbaru",
+    "lat": -8.1239,
+    "lon": 113.383
+  },
+  "SBS": {
+    "nama": "Sumber Salak",
+    "lat": -8.15729,
+    "lon": 113.8944
+  },
+  "BEN": {
+    "nama": "Benculuk",
+    "lat": -8.43359,
+    "lon": 114.2268
+  },
+  "KBL": {
+    "nama": "Kabat Baru",
+    "lat": -8.276,
+    "lon": 114.316
+  },
+  "KP": {
+    "nama": "Kempit",
+    "lat": -8.3031,
+    "lon": 114.0764
+  },
+  "KKL": {
+    "nama": "Krikilan",
+    "lat": -8.2959,
+    "lon": 114.029
+  },
+  "SRO": {
+    "nama": "Srono",
+    "lat": -8.4021,
+    "lon": 114.2626
+  },
+  "BO": {
+    "nama": "BONDOWOSO",
+    "lat": -7.9162,
+    "lon": 113.8302
+  },
+  "PNR": {
+    "nama": "Panarukan",
+    "lat": -7.69757,
+    "lon": 113.936
+  },
+  "PJ": {
+    "nama": "Panji",
+    "lat": -7.71277,
+    "lon": 113.997
+  },
+  "SIT": {
+    "nama": "Situbondo",
+    "lat": -7.71387,
+    "lon": 113.995
+  },
+  "SMM": {
+    "nama": "Seulimeum",
+    "lat": 5.3634,
+    "lon": 95.57739
+  },
+  "BUN": {
+    "nama": "Beureunun",
+    "lat": 5.27863,
+    "lon": 95.97681
+  },
+  "SGI": {
+    "nama": "Sigli",
+    "lat": 5.37964,
+    "lon": 95.9538
+  },
+  "BIR": {
+    "nama": "Bireuen",
+    "lat": 5.20142,
+    "lon": 96.70441
+  },
+  "BNA": {
+    "nama": "Banda Aceh",
+    "lat": 5.54041,
+    "lon": 95.3266
+  },
+  "LSM": {
+    "nama": "Lhokseumawe",
+    "lat": 5.18323,
+    "lon": 97.12384
+  },
+  "BSG": {
+    "nama": "Besitang",
+    "lat": 4.04242,
+    "lon": 98.18542
+  },
+  "PBD": {
+    "nama": "Pangkalan Brandan",
+    "lat": 4.02283,
+    "lon": 98.29059
+  },
+  "PSU": {
+    "nama": "Pangkalan Susu",
+    "lat": 4.11859,
+    "lon": 98.21503
+  },
+  "TJA": {
+    "nama": "Ampalu",
+    "lat": -0.65179,
+    "lon": 100.857
+  },
+  "MRO": {
+    "nama": "Muaro",
+    "lat": -0.66449,
+    "lon": 100.9478
+  },
+  "PSK": {
+    "nama": "Padang Sibusuk",
+    "lat": -0.69757,
+    "lon": 100.8344
+  },
+  "BTL": {
+    "nama": "BATU TABAL",
+    "lat": -0.54352,
+    "lon": 100.5224
+  },
+  "KKR": {
+    "nama": "Kubu Kerambil",
+    "lat": -0.48486,
+    "lon": 100.4674
+  },
+  "KDP": {
+    "nama": "Kandang Ampat",
+    "lat": -0.50128,
+    "lon": 100.3392
+  },
+  "PRM": {
+    "nama": "Parit Malintang",
+    "lat": -0.6225,
+    "lon": 100.2722
+  },
+  "BSO": {
+    "nama": "Halteu Baso",
+    "lat": -0.28589,
+    "lon": 100.4658
+  },
+  "PDR": {
+    "nama": "Padang Luar",
+    "lat": -0.3429,
+    "lon": 100.385
+  },
+  "PLG": {
+    "nama": "Piladang",
+    "lat": -0.26587,
+    "lon": 100.573
+  },
+  "PLA": {
+    "nama": "PULAU AIR",
+    "lat": -0.95947,
+    "lon": 100.3672
+  },
+  "TBY": {
+    "nama": "Teluk Bayur",
+    "lat": -0.99207,
+    "lon": 100.3802
+  },
+  "SKA": {
+    "nama": "SINGKARAK",
+    "lat": -0.6922,
+    "lon": 100.5998
+  },
+  "SLK": {
+    "nama": "SOLOK",
+    "lat": -0.78729,
+    "lon": 100.6552
+  },
+  "KCN": {
+    "nama": "Kacang",
+    "lat": -0.61346,
+    "lon": 100.5742
+  },
+  "SNL": {
+    "nama": "Sungai Lassi",
+    "lat": -0.7735,
+    "lon": 100.7328
+  },
+  "SLN": {
+    "nama": "Silungkang",
+    "lat": -0.72168,
+    "lon": 100.763
+  },
+  "PP": {
+    "nama": "PADANG PANJANG",
+    "lat": -0.46259,
+    "lon": 100.3956
+  },
+  "BUK": {
+    "nama": "BUKIT TINGGI",
+    "lat": -0.31317,
+    "lon": 100.3764
+  },
+  "KI": {
+    "nama": "KURAI TADJI",
+    "lat": -0.633,
+    "lon": 100.1702
+  },
+  "TLP": {
+    "nama": "Talangpadang",
+    "lat": -3.44989,
+    "lon": 104.0174
+  },
+  "TTR": {
+    "nama": "Tanjung Terang",
+    "lat": -3.45538,
+    "lon": 103.9294
+  }
+}
